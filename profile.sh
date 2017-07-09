@@ -25,4 +25,4 @@ alias g=git
 [ -n "$PS1" ] && [ -s $BASH16_SHELL/profile_helper.sh ] && eval "$($BASE16_SHELL/profile_helper.sh)"
 
 # LAUNCH TMUX WHEN START
-if [ -z "$TMUX" ]; then tmux new-session -A -s nawetimebomb; fi
+if [ -z "$TMUX" ]; then tmux new-session -A -s main; fi
