@@ -36,27 +36,33 @@ I created an `install.sh` file that will make the installation super easy.
 Though you've to have in mind I'm using some currently existing packages as git
 submodules. So, at the time you clone this repo, you should use `--recursive`.
 
-    git clone --recursive https://github.com/elnawe/.nwtb.git ~/.nwtb
+```
+git clone --recursive https://github.com/elnawe/.nwtb.git ~/.nwtb
+```
 
 - **Notes:**
 
-  - You should use `~/.nwtb` as the clone path. If not, at the time you run
+    - You should use `~/.nwtb` as the clone path. If not, at the time you run
 `install.sh` the folder will be moved to `~/.nwtb`. For consistency I use the
 same path on all my machines.
 
-  - `--recursive` is to clone all the git submodules. If you do not use
+    - `--recursive` is to clone all the git submodules. If you do not use
 this option you will not have the packages configuration (don't worry,
 installation won't fail). If you forgot about `--recursive` but you still want
 these packages you can do
 
-    $ git submodules init
-    $ git submodules update
+```
+$ git submodules init
+$ git submodules update
+```
 
 ### Step 2: run the installation script
 
 You just have to execute `install.sh` doing
 
-    $ <installation_path>/install.sh
+```
+$ <clone_path>/install.sh
+```
 
 This script will be taking care of looking for your `bash configuration file`
 (first looking for `~/.bash_profile`, if doesn't exist goes to `~/.bashrc`) and
