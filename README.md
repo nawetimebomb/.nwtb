@@ -43,6 +43,7 @@ submodules. So, at the time you clone this repo, you should use `--recursive`.
 -- You should use `~/.nwtb` as the clone path. If not, at the time you run
 `install.sh` the folder will be moved to `~/.nwtb`. For consistency I use the
 same path on all my machines.
+
 -- `--recursive` is to clone all the git submodules. If you do not use
 this option you will not have the packages configuration (don't worry,
 installation won't fail). If you forgot about `--recursive` but you still want
