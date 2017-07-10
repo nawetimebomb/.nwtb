@@ -1,0 +1,81 @@
+# user configuration
+set realname="Nahuel Jesús Sacchetti"
+set use_from=yes
+set envelope_from=yes
+
+folder-hook "account.nahueljsacchetti.gmail" "source ~/.elnawe.secrets/email/account.nahueljsacchetti.gmail"
+folder-hook "account.nahuel.sacchetti.globant" "source ~/.elnawe.secrets/email/account.nahuel.sacchetti.globant"
+
+# load default account
+source ~/.elnawe.secrets/email/account.nahueljsacchetti.gmail
+
+# editor configuration
+set include=yes
+set editor="emacs -Q"
+set charset="utf-8"
+set record=""
+set quit=ask-no
+
+# viewing configuration
+set sort=reverse-threads
+set sort_aux=last-date-received
+set index_format="%S %[%b %d %H:%M]  |   %-15.15L   |   %s"
+set status_format="%?u?%(%u/%o)? $from @ %f (sorting: %s/%S)-%>-%?p?(%p posponed message(s))?-%?d?(%d message(s) marked for deletion)?-(%P  %M/%m)---"
+set status_on_top=yes
+
+# macros
+macro index <f2> "<sync-mailbox><enter-command>source ~/.elnawe.secrets/email/account.nahueljsacchetti.gmail<enter><change-folder>!<enter>"
+macro index <f3> "<sync-mailbox><enter-command>source ~/.elnawe.secrets/email/account.nahuel.sacchetti.globant<enter><change-folder>!<enter>"
+
+# index bindings
+## interaction
+bind index g imap-fetch-mail
+bind index G imap-fetch-mail
+bind index r reply
+bind index a group-reply
+bind index L list-reply
+
+## navigation
+bind index j next-entry
+bind index k previous-entry
+bind index J next-thread
+bind index K previous-thread
+bind index \C< first-entry
+bind index \C> last-entry
+bind index \Cv half-down
+bind index \CV half-up
+
+## others
+bind index H help
+bind index \CxCc quit
+bind index x quit
+
+## search
+bind index / search
+bind index ? search-reverse
+bind index n search-next
+bind index N search-opposite
+
+# pager bindings
+## interaction
+bind pager r reply
+bind pager a group-reply
+bind pager l list-reply
+bind pager L list-reply
+
+## navigation
+bind pager j next-line
+bind pager k previous-line
+bind pager \C< top
+bind pager \C> bottom
+bind index \Cv half-down
+bind index \CV half-up
+
+## others
+bind pager H help
+
+## search
+bind pager / search
+bind pager ? search-reverse
+bind pager n search-next
+bind pager N search-opposite

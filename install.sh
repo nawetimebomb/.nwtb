@@ -55,4 +55,23 @@ else
     git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm/
 fi
 
+# Install Mutt
+MUTT_FILE=~/.muttrc
+
+printf "${NWTB_PREFIX} Installing Mutt"
+printf "${NWTB_PREFIX} Creating .email folders"
+mkdir -p ~/.email/accounts/nahueljsacchetti/headers
+mkdir ~/.email/accounts/nahueljsacchetti/bodies
+mkdir ~/.email/accounts/nahuel.sacchetti/ ~/.email/accounts/nahuel.sacchetti/headers ~/.email/accounts/nahuel.sacchetti/bodies
+touch ~/.email/accounts/nahueljsacchetti/certificates ~/.email/accounts/nahuel.sacchetti/certificates
+printf "${NWTB_PREFIX} Moving configuration"
+
+if [ -f $MUTT_FILE ]; then
+    printf "${NWTB_PREFIX} \e[0;31mWarning: \e[mA configuration of Mutt exists. Renaming to .muttrc.bak"
+    rm ~/.muttrc.bak
+    mv $MUTT_FILE ~/.muttrc.bak
+fi
+
+ln -s ~/.nwtb/.muttrc $MUTT_FILE
+
 printf "\n${NWTB_PREFIX} \e[5;92mInstallation complete.\n"
