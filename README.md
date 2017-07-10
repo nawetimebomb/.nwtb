@@ -16,6 +16,7 @@ future and reduce the amount of dependencies.
 - Bash (v4+)
 - Emacs
 - Tmux
+- Mutt
 
 ## `TODOs`
 
