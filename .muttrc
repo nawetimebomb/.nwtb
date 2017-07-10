@@ -23,6 +23,17 @@ set index_format="%S %[%b %d %H:%M]  |   %-15.15L   |   %s"
 set status_format="%?u?%(%u/%o)? $from @ %f (sorting: %s/%S)-%>-%?p?(%p posponed message(s))?-%?d?(%d message(s) marked for deletion)?-(%P  %M/%m)---"
 set status_on_top=yes
 
+# colors
+color indicator green black
+color status black green
+color markers red black
+color header yellow black ^Date:
+color header yellow black ^From:
+color header yellow black ^To:
+color header yellow black ^Subject:
+color body green black (https?|ftp)://[\-\.,/%~_:?&=\#a-zA-Z0-9]+
+color body green black [\-\.+_a-zA-Z0-9]+@[\-\.a-zA-Z0-9]+
+
 # macros
 macro index <f2> "<sync-mailbox><enter-command>source ~/.elnawe.secrets/email/account.nahueljsacchetti.gmail<enter><change-folder>!<enter>"
 macro index <f3> "<sync-mailbox><enter-command>source ~/.elnawe.secrets/email/account.nahuel.sacchetti.globant<enter><change-folder>!<enter>"
