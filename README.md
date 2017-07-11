@@ -17,6 +17,8 @@ future and reduce the amount of dependencies.
 - Emacs
 - Tmux
 - Mutt
+- i3
+- rxvt-unicode
 
 ## `TODOs`
 
