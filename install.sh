@@ -74,4 +74,32 @@ fi
 
 ln -s ~/.nwtb/.muttrc $MUTT_FILE
 
-printf "\n${NWTB_PREFIX} \e[5;92mInstallation complete.\n"
+# Install Xdefaults (URxvt)
+XDEFAULTS_FILE=~/.Xdefaults
+
+printf "${NWTB_PREFIX} Installing Xdefaults"
+
+if [ -f $XDEFAULTS_FILE ]; then
+    printf "${NWTB_PREFIX} \e[0;31mWarning: \e[mA configuration of Xdefaults exists. Renaming to .Xdefaults.bak"
+    rm ~/.Xdefaults.bak
+    mv $XDEFAULTS_FILE ~/.Xdefaults.bak
+fi
+
+ln -s ~/.nwtb/.Xdefaults $XDEFAULTS_FILE
+
+# Install i3
+I3STATUS_FILE=~/.i3status.conf
+I3CONFIGURATION_FOLDER=~/.config/i3/
+
+printf "${NWTB_PREFIX} Installing i3 configurations"
+
+if [ -f $I3STATUS_FILE ]; then
+    printf "${NWTB_PREFIX} \e[0;31mWarning: \e[mA configuration of i3 statusbar exists. Renaming to .i3status.conf.bak"
+    rm ~/.i3status.conf.bak
+    mv $I3STATUS_FILE ~/.i3status.conf.bak
+fi
+
+ln -s ~/.nwtb/.i3status.conf $I3STATUS_FILE
+ln -s ~/.nwtb/i3/ $I3CONFIGURATION_FOLDER
+
+printf "\n${NWTB_PREFIX} \e[5;92mInstallation complete.\e[m\n"

@@ -9,14 +9,16 @@
 export NWTB=$HOME/.nwtb
 export NWTB_PACKAGES=${NWTB}/packages
 
+# ALIASES
+alias emacs="emacs -nw"
+alias g=git
+
 # ENV VARIABLES
 export EDITOR="/usr/bin/emacs -Q -nw"
 export PS1="\[\e[0;92m\]\w \$\[\e[m\] "
+export TERM="xterm-256color"
 export SECRETS="$HOME/.elnawe.secrets/"
 export WWW_HOME="https://www.google.com"
-
-# ALIASES
-alias g=git
 
 # LAUNCH PACKAGES
 BASE16_SHELL=$NWTB_PACKAGES/base16-shell/

@@ -1,0 +1,43 @@
+! urxvt
+
+URxvt.geometry:     115x40
+URxvt.font:         xft:DejaVu Sans Mono:pixelsize=12:antialias=true
+URxvt.boldFont:     xft:DejaVu Sans Mono:bold:pixelsize=12:antialias=true
+URxvt.depth:        32
+URxvt.borderless:   1
+URxvt.scrollBar:    false
+URxvt.saveLines:    2000
+URxvt.transparent:  true
+URxvt.shading:      10
+URxvt.title:        Nawe
+
+! copy and paste
+URxvt.keysym.super-V: perl:clipboard:paste
+URxvt.keysym.super-C: perl:clipboard:copy
+
+! disable ctrl+shift insert mode
+URxvt.iso14755:     false
+URxvt.iso14755_52:  false
+
+! perl extensions
+URxvt.perl-ext:     default.url-select.clipboard
+
+! colorscheme
+URxvt.background:   #3f3f3f
+URxvt.foreground:   #dcdccc
+URxvt.color0:       #3f3f3f
+URxvt.color1:       #bc8383
+URxvt.color2:       #5f7f5f
+URxvt.color3:       #e0cf9f
+URxvt.color4:       #7cb8bb
+URxvt.color5:       #dc8cc3
+URxvt.color6:       #93e0e3
+URxvt.color7:       #dcdcdc
+URxvt.color8:       #4f4f4f
+URxvt.color9:       #dca3a3
+URxvt.color10:      #8fb28f
+URxvt.color11:      #f0dfaf
+URxvt.color12:      #9fbff3
+URxvt.color13:      #dc8cc3
+URxvt.color14:      #93e0e3
+URxvt.color15:      #ffffff
