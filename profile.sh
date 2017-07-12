@@ -5,6 +5,9 @@
 ### description:
 # runs defaults systems, environments and aliases.
 
+# VARIABLES
+ALEPH_ICON=$'\u2135' # א
+
 # CONFIGURATION VARIABLES
 export NWTB=$HOME/.nwtb
 export NWTB_PACKAGES=${NWTB}/packages
@@ -15,10 +18,13 @@ alias g=git
 
 # ENV VARIABLES
 export EDITOR="/usr/bin/emacs -Q -nw"
-export PS1="\[\e[1;92m\]\w א\e[0;37m "
+export PS1=" \[\033[0;92m\]\W ${ALEPH_ICON} \[\033[0;m\] "
 export TERM="xterm-256color"
 export SECRETS="$HOME/.elnawe.secrets/"
 export WWW_HOME="https://www.google.com"
+
+# SET VALUES
+set +m
 
 # LAUNCH PACKAGES
 BASE16_SHELL=$NWTB_PACKAGES/base16-shell/
