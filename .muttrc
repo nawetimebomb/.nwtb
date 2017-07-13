@@ -15,7 +15,8 @@ set editor="emacs -Q"
 set charset="utf-8"
 set record=""
 set quit=ask-no
-
+auto_view text/html
+alternative_order text/plain text/enriched text/html
 # viewing configuration
 set sort=reverse-threads
 set sort_aux=last-date-received
