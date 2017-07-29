@@ -1,0 +1,182 @@
+#+TITLE: i3 Window Manager Configuration File
+#+AUTHOR: Nahuel Jesús Sacchetti
+
+* Introduction
+
+Welcome to my i3wm configuration file. Here I've a literate programming
+version of my i3wm.
+
+#+BEGIN_QUOTE
+i3 is a tiling window manager, completely written from scratch. The
+target platforms are GNU/Linux and BSD operating systems, our code is
+Free and Open Source Software (FOSS) under the BSD license.
+#+END_QUOTE
+
+Please note that to build this file you will need
+Emacs with =org-mode= and =org-plus-contrib= package.
+
+** =TODOs=
+
+This section is intended to have all the things I want =todo= but I do
+not have time to right now.
+
+** Notes
+
+Keep this is mind, i3 has special naming for some keys, this is a list
+of them.
+
+- Control: Left Control key.
+- Mod1: Left Alt key.
+- Mod4: Super key.
+- Return: Enter key.
+- Shift: Left Shift key.
+- space: Spacebar.
+
+* Important defaults
+
+** i3 mod Key
+
+i3 is keyboard-friendly and uses a master key, like =Tmux=. In my
+opinion, =Super= is the one that does the right job since I don't use it
+often inside Emacs nor any other application I use. =Mod4= stands for =Super=.
+
+#+BEGIN_SRC bash
+set $mod Mod4
+#+END_SRC
+
+** Theming
+
+There're not many configuration for theming in i3, but I will keep all
+these "styling" or visual configurations inside here.
+
+#+BEGIN_SRC bash
+font pango:DejaVu Sans Mono 8
+#+END_SRC
+
+* Custom Modes
+
+i3 has modes. These are useful for a lot of different things like
+resizing windows, or, in my case, session management.
+
+*** Session mode
+
+#+BEGIN_SRC bash
+set $session " (E)xit  (L)ock  (P)oweroff  (R)eboot"
+
+mode $session {
+         bindsym e exec $psst i3-msg exit; mode "default"
+         bindsym l exec $psst i3lock; mode "default"
+         bindsym p exec $psst systemctl poweroff; mode "default"
+         bindsym r exec $psst systemctl reboot; mode "default"
+
+         bindsym q mode "default"
+         bindsym Escape mode "default"
+}
+#+END_SRC
+
+* Keyboard Shortcuts
+
+I don't use mouse at all, it's important to me to keep all the apps or
+features accessible by keyboard.
+
+** dmenu Launcher
+
+=dmenu= is an excellent application that lets you run applications
+easily (any of them). It acts like =Spotlight Search= in Mac.
+
+#+BEGIN_SRC bash
+bindsym Mod1+space exec dmenu_run
+#+END_SRC
+
+** i3
+
+These keybindings are related to configuration reloading, restart i3
+(very useful when upgrading) and exiting from it. Also add =i3lock= for
+locking the screen (I use this only on my machine at office).
+
+#+BEGIN_SRC bash
+bindsym $mod+Shift+c exec "~/.nwtb/build-org-files.sh --i3 && i3-msg reload"
+bindsym $mod+Shift+r exec "~/.nwtb/build-org-files.sh --i3 && i3-msg restart"
+bindsym $mod+Shift+e mode $session
+#+END_SRC
+
+** Kill focused window
+
+Closing a window in i3 is killing it!
+
+#+BEGIN_SRC bash
+bindsym $mod+Shift+q kill
+#+END_SRC
+
+** Open terminal
+
+I don't do this very often because =Tmux= already handles all my windows
+and sessions within one Terminal instance.
+
+#+BEGIN_SRC bash
+bindsym $mod+Return exec termite
+#+END_SRC
+
+** Window management
+
+As a tile windows manager I need to manage them and I've my setup for
+doing it with my keyboard. It's also features a vi-like navigation.
+
+*** Navigation
+
+#+BEGIN_SRC bash
+bindsym $mod+h focus left
+bindsym $mod+j focus down
+bindsym $mod+k focus up
+bindsym $mod+l focus right
+
+bindsym $mod+Shift+h move left
+bindsym $mod+Shift+j move down
+bindsym $mod+Shift+k move up
+bindsym $mod+Shift+l move right
+#+END_SRC
+
+*** Toggles
+
+#+BEGIN_SRC bash
+bindsym $mod+f fullscreen toggle
+bindsym $mod+Shift+space floating toggle
+bindsym $mod+space focus mode_toggle
+#+END_SRC
+
+*** Splitting
+
+#+BEGIN_SRC bash
+bindsym $mod+Shift+| split h
+bindsym $mod+Shift+- split v
+#+END_SRC
+
+** Workspaces
+
+i3 uses workspaces, they are like different "desktop" instances and you
+can move windows in between them. I use this A LOT, since I prefer to
+have only one application in fullscrean for each workspace.
+
+#+BEGIN_SRC bash
+bindsym $mod+1 workspace 1
+bindsym $mod+2 workspace 2
+bindsym $mod+3 workspace 3
+bindsym $mod+4 workspace 4
+bindsym $mod+5 workspace 5
+bindsym $mod+6 workspace 6
+bindsym $mod+7 workspace 7
+bindsym $mod+8 workspace 8
+bindsym $mod+9 workspace 9
+bindsym $mod+0 workspace 10
+
+bindsym $mod+Shift+1 move container to workspace 1
+bindsym $mod+Shift+2 move container to workspace 2
+bindsym $mod+Shift+3 move container to workspace 3
+bindsym $mod+Shift+4 move container to workspace 4
+bindsym $mod+Shift+5 move container to workspace 5
+bindsym $mod+Shift+6 move container to workspace 6
+bindsym $mod+Shift+7 move container to workspace 7
+bindsym $mod+Shift+8 move container to workspace 8
+bindsym $mod+Shift+9 move container to workspace 9
+bindsym $mod+Shift+0 move container to workspace 10
+#+END_SRC

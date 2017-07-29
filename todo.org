@@ -1,0 +1,28 @@
+Improving the configuration repository. These are all the things I need
+to do!
+
+* TODO Update configuration scaffolding
+
+| folder | content                | build to   |
+|--------+------------------------+------------|
+| i3     | i3 configuration files | config     |
+| mutt   | muttrc                 | .muttrc    |
+| X      | xinit                  | .xinit     |
+| tmux   | tmux                   | .tmux.conf |
+
+* TODO Improve install script
+
+** TODO Run emacs org-babel
+
+Now should run emacs with the org-babel package to construct the
+different configuration files.
+
+** TODO Install packages if they not exist
+
+Check for applications and, if they don't exist, install them.
+
+** TODO Use docker?
+
+* TODO Improve =READMEs=.
+
+* TODO Move Emacs configuration to this repository.
