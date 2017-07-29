@@ -19,7 +19,7 @@ alias g=git
 # ENV VARIABLES
 export EDITOR="/usr/bin/emacs -Q -nw"
 export PS1=" \[\033[0;92m\]\W ${ALEPH_ICON} \[\033[0;m\] "
-export TERM="rxvt-unicode-256color"
+export TERMINAL="termite"
 export SECRETS="$HOME/.elnawe.secrets/"
 export WWW_HOME="https://www.google.com"
 
