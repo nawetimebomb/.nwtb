@@ -1,0 +1,203 @@
+#+TITLE: Tmux Configuration File
+#+AUTHOR: Nahuel Jesús Sacchetti
+
+* Introduction
+
+Welcome to my tmux configuration file. Here I've a literate programming
+version of my tmux.
+
+#+BEGIN_QUOTE
+tmux is a terminal multiplexer. It lets you switch easily between
+several programs in one terminal, detach them (they keep running in the
+background) and reattach them to a different terminal. And do a lot
+more.
+#+END_QUOTE
+
+Please note that to build this file you will need
+Emacs with =org-mode= and =org-plus-contrib= package.
+
+** =TODOs=
+
+This section is intended to have all the things I want =todo= but I do
+not have time to right now.
+
+** Notes
+
+As most of this Terminal programs and configurations you will see things
+like =C-v=, this means =Control-v= (the letter =v=).
+
+* Theming
+
+Colorizing is not what I do the best but sometimes I like to do it.
+Specially because I like to keep it personal.
+
+** Messages
+
+When Tmux want to says something...
+
+#+BEGIN_SRC bash
+set -g message-bg green
+set -g message-fg black
+#+END_SRC
+
+** Mode
+
+When in =copy-mode=, I like to keep the styles.
+
+#+BEGIN_SRC bash
+setw -g mode-bg green
+setw -g mode-fg black
+#+END_SRC
+
+** Panes
+
+Panes are splitted windows.
+
+#+BEGIN_SRC bash
+set -g pane-border-fg white
+set -g pane-border-bg black
+set -g pane-active-border-fg green
+set -g pane-active-border-bg black
+#+END_SRC
+
+** Status Bar
+
+A nice-looking status bar with great information, because I mostly use
+Terminal.
+
+#+BEGIN_SRC bash
+set -g status-bg black
+set -g status-fg white
+set -g status-left ""
+set -g status-position top
+set -g status-right "#[bold] #{pane_current_path}\
+    #[default,fg=cyan]#S\
+    #{online_status}\
+    #[default] #[bg=green,fg=black] %A, %B %d %H:%M "
+set -g status-right-length 200
+#+END_SRC
+
+** Windows
+
+The windows list.
+
+#+BEGIN_SRC bash
+set -g window-status-current-format "#[bg=green,fg=black] #I #W "
+set -g window-status-format " #I #W "
+
+setw -g window-status-fg white
+#+END_SRC
+
+* Keyboard Bindings
+
+As Tmux is a keyboard-driven Terminal multiplexer, I've quite a few
+keyboard bindings to do the job. Here they are.
+
+** Mode keys
+
+When copying/pasting in Tmux you will have to move to =copy-mode=. Since
+that mode is more like navigation inside the window you need a new setup
+of keybindings. I use the default keybindings of Emacs for this:
+
+#+BEGIN_SRC bash
+setw -g mode-keys emacs
+#+END_SRC
+
+** Reload Configuration
+
+Make Emacs create the new configuration and then make Tmux reload.
+
+#+BEGIN_SRC bash
+bind r run "~/.nwtb/build-org-files.sh --tmux && tmux source-file ~/.tmux.conf && tmux display-message Reloaded!"
+#+END_SRC
+
+** The Tmux Key
+
+I've seen most configurations are using the default =C-b= or a most
+accessible =C-a=, but I actually prefer =C-v=. Why? Because =C-b= is the
+way I go backwards in Emacs.
+
+Note: =send-prefix= keybinding is because I press two times Tmux key, I
+send that command to the Terminal/program.
+
+#+BEGIN_SRC bash
+unbind-key C-b
+
+set prefix C-v
+bind C-v send-prefix
+#+END_SRC
+
+** Window Management
+
+In Tmux, a window is like a new tab on a session. I like to keep those
+handy!
+
+*** Create windows with name
+
+Use =new-window= to create a new window with a name (prompted at time of
+creation).
+
+#+BEGIN_SRC bash
+bind C command-prompt -p "Name:" "new-window -n '%%'"
+#+END_SRC
+
+*** Navigation
+
+Use =vi-like= navigation in between panes.
+
+#+BEGIN_SRC bash
+bind h select-pane -L
+bind j select-pane -D
+bind k select-pane -U
+bind l select-pane -R
+#+END_SRC
+
+*** Splitting
+
+Unbind the defaults, bind =|= for horizontal splitting and =-= for
+vertical splitting. They pretty much explain themselves.
+
+#+BEGIN_SRC bash
+unbind '"'
+unbind %
+
+bind | split-window -h
+bind - split-window -v
+#+END_SRC
+
+* Plugins
+
+Plugins for Tmux are great. Also =tpm= or Tmux Plugin Manager is an
+excellent tool to install them really easily.
+
+** Set plugins
+
+List of plugins I use.
+
+#+BEGIN_SRC bash
+set -g @plugin 'tmux-plugins/tpm'
+set -g @plugin 'tmux-plugins/tmux-sensible'
+set -g @plugin 'tmux-plugins/tmux-resurrect'
+set -g @plugin 'tmux-plugins/tmux-continuum'
+set -g @plugin 'tmux-plugins/tmux-yank'
+set -g @plugin 'tmux-plugins/tmux-online-status'
+#+END_SRC
+
+** Plugin configuration
+
+These are the plugins configurations.
+
+#+BEGIN_SRC bash
+set -g @continuum-restore 'on'
+set -g @online_icon '#[fg=brightgreen]online'
+set -g @offline_icon '#[fg=brightred]offline'
+#+END_SRC
+
+** Run Tmux Plugin Manager
+
+This is a really important line. Starts the =tpm= after all
+configuration is done:
+
+#+BEGIN_SRC bash
+run '~/.tmux/plugins/tpm/tpm'
+#+END_SRC

@@ -21,8 +21,8 @@ different configuration files.
 
 Check for applications and, if they don't exist, install them.
 
-** TODO Use docker?
-
 * TODO Improve =READMEs=.
 
 * TODO Move Emacs configuration to this repository.
+
+* TODO Make all the packages instead of downloading them.
