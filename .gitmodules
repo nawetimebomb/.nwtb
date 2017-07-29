@@ -4,3 +4,6 @@
 [submodule "applications/i3"]
 	path = applications/i3
 	url = https://github.com/i3/i3.git
+[submodule "applications/tmux"]
+	path = applications/tmux
+	url = https://github.com/tmux/tmux.git
