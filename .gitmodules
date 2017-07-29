@@ -1,3 +1,6 @@
 [submodule "packages/base16-shell"]
 	path = packages/base16-shell
 	url = https://github.com/elnawe/base16-shell.git
+[submodule "applications/i3"]
+	path = applications/i3
+	url = https://github.com/i3/i3.git
