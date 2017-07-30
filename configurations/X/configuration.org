@@ -46,41 +46,6 @@ access everywhere.
 export NWTB_CONFIG_DIR="$HOME/.nwtb"
 #+END_SRC
 
-* Set Terminal Mode
-
-I don't want to use =Job control mode=. Beucase I use the Terminal a lot
-and I also use Tmux which lets me do =Job control= by my own instead of
-using the keyboard shortcuts. Disable the Job control mode.
-
-#+BEGIN_SRC bash
-set +m
-#+END_SRC
-
-* Set Keyboard Map
-
-Standarize my keyboard options all across the board. This includes:
-
-- Keyboard layout to =us=, excellent for development and also all my
-  keyboards have US layout.
-- Keyboard variant to International AltGr dead keys which allows me to
-  write Spanish letters.
-- Disable the Caps Lock, move it to Ctrl key.
-
-#+BEGIN_SRC bash
-setxbmap us
-setxbmap -variant altgr-intl
-setxbmap -option ctrl:nocaps
-#+END_SRC
-
-* Hide Mouse
-
-I use unclutter which allows me to hide the mouse when I'm not using it
-(I don't use mouse at all). This is another dependecy but it's worth.
-
-#+BEGIN_SRC bash
-unclutter -root -visible &
-#+END_SRC
-
 * Better Visuals
 
 I use a composite manager to have better defaults in my Window Manager.

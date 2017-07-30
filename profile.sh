@@ -13,11 +13,11 @@ export NWTB=$HOME/.nwtb
 export NWTB_PACKAGES=${NWTB}/packages
 
 # ALIASES
-alias emacs="emacs -nw"
+alias emacs="emacsclient -t"
 alias g=git
 
 # ENV VARIABLES
-export EDITOR="/usr/bin/emacs -Q -nw"
+export EDITOR="/usr/bin/emacsclient -t"
 export PS1=" \[\033[0;92m\]\W ${ALEPH_ICON} \[\033[0;m\] "
 export TERMINAL="termite"
 export SECRETS="$HOME/.elnawe.secrets/"

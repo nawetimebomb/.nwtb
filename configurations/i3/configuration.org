@@ -180,3 +180,52 @@ bindsym $mod+Shift+8 move container to workspace 8
 bindsym $mod+Shift+9 move container to workspace 9
 bindsym $mod+Shift+0 move container to workspace 10
 #+END_SRC
+
+* On Startup
+
+This configuration is executed when i3 starts up, after loaded by the
+.xinitrc file.
+
+** Emacs Daemon
+
+I start the Emacs Daemon on startup and then just connect to that with
+=emacsclient=
+
+#+BEGIN_SRC bash
+exec /usr/bin/emacs --daemon
+#+END_SRC
+
+** Hide Mouse
+
+I use unclutter which allows me to hide the mouse when I'm not using it
+(I don't use mouse at all). This is another dependecy but it's worth.
+
+#+BEGIN_SRC bash
+exec unclutter -root -visible &
+#+END_SRC
+
+** Set Keyboard Layout
+
+Standarize my keyboard options all across the board. This includes:
+
+- Keyboard layout to =us=, excellent for development and also all my
+  keyboards have US layout.
+- Keyboard variant to International AltGr dead keys which allows me to
+  write Spanish letters.
+- Disable the Caps Lock, move it to Ctrl key.
+
+#+BEGIN_SRC bash
+exec setxbmap us
+exec setxbmap -variant altgr-intl
+exec setxbmap -option ctrl:nocaps
+#+END_SRC
+
+** Set Terminal Mode
+
+I don't want to use =Job control mode=. Beucase I use the Terminal a lot
+and I also use Tmux which lets me do =Job control= by my own instead of
+using the keyboard shortcuts. Disable the Job control mode.
+
+#+BEGIN_SRC bash
+exec set +m
+#+END_SRC
