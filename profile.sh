@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 ### name:
 # .nwtb/profile.sh
@@ -14,6 +14,7 @@ export NWTB_PACKAGES=${NWTB}/packages
 
 # ALIASES
 alias emacs="emacsclient -t"
+alias reload-termite="$NWTB/build-org-files.sh --termite && killall -USR1 termite"
 alias g=git
 
 # ENV VARIABLES
@@ -21,10 +22,6 @@ export EDITOR="/usr/bin/emacsclient -t"
 export PS1=" \[\033[0;92m\]\W ${ALEPH_ICON} \[\033[0;m\] "
 export TERMINAL="termite"
 export SECRETS="$HOME/.elnawe.secrets/"
-export WWW_HOME="https://www.google.com"
-
-# SET VALUES
-set +m
 
 # LAUNCH PACKAGES
 BASE16_SHELL=$NWTB_PACKAGES/base16-shell/

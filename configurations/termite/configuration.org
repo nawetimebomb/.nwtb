@@ -1,0 +1,91 @@
+#+TITLE: Termite Configuration File
+#+AUTHOR: Nahuel Jesús Sacchetti
+
+* Introduction
+
+Welcome to my Termite configuration file. Here I've a literate programming
+version of my Termite.
+
+#+BEGIN_QUOTE
+Termite is an easy to use and easy to configure RS232 terminal. It uses
+an interface similar to that of "messenger" or "chat" programs, with a
+large window that contains all received data and an edit line for typing
+in strings to transmit. Highlights of the utility are the ease of
+installation (possibly with pre-configured settings) using a heuristic
+search for the appropriate COM port and, as was mentioned, its
+user-friendliness.
+#+END_QUOTE
+
+Please note that to build this file you will need
+Emacs with =org-mode= and =org-plus-contrib= package.
+
+* Hints
+
+Termite lets you use the keyboard for URLs and that's great. I just
+change how they look to match =cVim= as I use that in =Chromium=.
+
+#+BEGIN_SRC bash
+[hints]
+active_background = #f8ed62
+active_foreground = #3f3f3f
+background = #f8ed62
+border = #a98600
+border_width = 1
+foreground = #000000
+font = Monospace 10
+padding = 2
+roundness = 1.0
+#+END_SRC
+
+* Options
+
+#+BEGIN_SRC  bash
+[options]
+allow_bold = true
+audible_bell = false
+clickable_url = true
+cursor_blink = on
+cursor_shape = block
+dynamic_title = true
+filter_unmatched_urls = true
+font = Monospace 9
+mouse_autohide = true
+scroll_on_keystroke = true
+scroll_on_output = false
+scrollback_lines = 10000
+search_wrap = true
+urgent_on_bell = true
+#+END_SRC
+
+* Theming
+
+Match Zenburn, even with my Terminal.
+
+*Note:* I just set a base16 color but you are able to set 255 colors.
+Also =Termite= supports true color but I don't really care about that.
+
+#+BEGIN_SRC bash
+[colors]
+background = #3f3f3f
+foreground = #dcdccc
+foreground_bold = #ffffff
+
+highlight = #2f2f2f
+
+color0 = #3f3f3f
+color1 = #705050
+color2 = #60b48a
+color3 = #dfaf8f
+color4 = #506070
+color5 = #dc8cc3
+color6 = #8cd0d3
+color7 = #dcdccc
+color8 = #709080
+color9 = #dca3a3
+color10 = #c3bf9f
+color11 = #f0dfaf
+color12 = #94bff3
+color13 = #ec93d3
+color14 = #93e0e3
+color15 = #ffffff
+#+END_SRC

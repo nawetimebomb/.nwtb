@@ -36,11 +36,24 @@ buildFor() {
         build_X
     elif [ $TYPE = "--i3" ]; then
         build_i3
+    elif [ $TYPE = "--termite" ]; then
+        build_Termite
     else
         printFormattedMessage "Parameter $TYPE doesn't exist!" "t"
         exit 1
     fi
 }
+
+# start   --     termite/configuration.org
+build_Termite() {
+    INPUT__TERMITE_CONFIG_FILE="$INPUT__CONFIGURATIONS_DIR/termite/configuration.org"
+    OUTPUT__TERMITE_CONFIG_DIR="$HOME/.config/termite"
+    OUTPUT__TERMITE_CONFIG_FILE="$OUTPUT__TERMITE_CONFIG_DIR/config"
+
+    mkdir -p $OUTPUT__TERMITE_CONFIG_DIR &&
+        runEmacsBabel $INPUT__TERMITE_CONFIG_FILE $OUTPUT__TERMITE_CONFIG_FILE
+}
+# end     --     ~/.config/termite/config
 
 # start   --     X/configuration.org
 build_X() {
@@ -85,6 +98,7 @@ build_i3() {
 if [ $# -eq 0 ]; then
     printFormattedMessage "Building all configuration files"
 
+    build_Termite
     build_X
     build_Tmux
     build_Neomutt
