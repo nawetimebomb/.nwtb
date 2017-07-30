@@ -1,3 +1,4 @@
+#!/bin/bash
 # TODO: Add build by options.
 # TODO: Add all build types
 
@@ -21,7 +22,7 @@ runEmacsBabel() {
     FILE=$1
     OUTPUT=$2
 
-    emacs --batch --eval "(require 'org)" --eval "(org-babel-tangle-file (symbol-name '$FILE) (symbol-name '$OUTPUT))"
+    /usr/bin/emacs --batch --eval "(require 'org)" --eval "(org-babel-tangle-file (symbol-name '$FILE) (symbol-name '$OUTPUT))"
 }
 
 buildFor() {

@@ -330,7 +330,7 @@ bind generic,pager,editor,index <Esc>) noop
 I use Emacs for emails too.
 
 #+BEGIN_SRC bash
-set editor="emacs -Q" # TODO: Add a minimal version of my Emacs configuration.
+set editor="/usr/bin/emacsclient -t"
 set edit_headers=yes
 set include=yes
 #+END_SRC
