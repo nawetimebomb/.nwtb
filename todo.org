@@ -1,6 +1,10 @@
 Improving the configuration repository. These are all the things I need
 to do!
 
+* DEPENDENCIES
+
+- ncurses
+
 * TODO Update configuration scaffolding
 
 | folder | content                | build to   |
@@ -26,3 +30,23 @@ Check for applications and, if they don't exist, install them.
 * TODO Move Emacs configuration to this repository.
 
 * TODO Make all the packages instead of downloading them.
+
+- libtoolize --force
+- aclocal
+- autoheader
+- automake --force-missing --add-missing
+- autoconf
+- ./configure (run de config specifically)
+
+** TODO Build ncurses
+
+- Makes another dependecy
+
+** Neomutt
+
+- cd applications/neomutt
+- autoreconf -i
+- ./configure --prefix=/usr/local --enable-gpgme
+  --with-ssl --with-gnutls --with-curses=/usr --enable-notmutch
+- make
+- make install

@@ -1,13 +1,17 @@
-#+TITLE: Mutt Configuration File
+#+TITLE: NeoMutt Configuration File
 #+AUTHOR: Nahuel Jesús Sacchetti
 
 * Introduction
 
-Welcome to my mutt configuration file. Here I've a literate programming
-version of my mutt.
+Welcome to my NeoMutt configuration file. Here I've a literate programming
+version of my NeoMutt.
 
 #+BEGIN_QUOTE
-"All mail clients suck. This one just sucks less." -Michael R. Elkins, circa 1995
+"All mail clients suck. This one just sucks less." -Michael R. Elkins,
+circa 1995.
+
+NeoMutt is a command-line mail reader (or Mail User Agent). It's a
+version of Mutt with added features.
 #+END_QUOTE
 
 Please note that to build this file you will need
@@ -54,7 +58,7 @@ set use_from=yes
 ** Unbind every default
 
 The defaults are quite weird and I found out there someone did already a
-list to cleanup default keybindings. Spotted [[https://github.com/iagox86/mutt][here]]
+list to cleanup default keybindings. Spotted [[https://github.com/iagox86/NeoMutt][here]]
 
 #+BEGIN_SRC bash
 bind generic,pager,editor,index a noop
@@ -338,7 +342,6 @@ Mutt is keyboard only. These are my keybindings separated by category.
 ** Action
 
 #+BEGIN_SRC bash
-bind pager @ display-addres
 bind pager q exit
 
 bind generic <Return> select-entry
