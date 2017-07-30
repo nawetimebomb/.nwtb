@@ -5,7 +5,8 @@ to do!
 
 - ncurses
 
-* TODO Update configuration scaffolding
+* DONE Update configuration scaffolding
+  CLOSED: [2017-07-30 dom 17:42]
 
 | folder | content                | build to   |
 |--------+------------------------+------------|
@@ -16,7 +17,8 @@ to do!
 
 * TODO Improve install script
 
-** TODO Run emacs org-babel
+** DONE Run emacs org-babel
+   CLOSED: [2017-07-30 dom 17:42]
 
 Now should run emacs with the org-babel package to construct the
 different configuration files.
@@ -25,11 +27,14 @@ different configuration files.
 
 Check for applications and, if they don't exist, install them.
 
-* TODO Improve =READMEs=.
+* DONE Improve =READMEs=.
+  CLOSED: [2017-07-30 dom 17:42]
 
 * TODO Move Emacs configuration to this repository.
 
 * TODO Make all the packages instead of downloading them.
+
+*Notes*
 
 - libtoolize --force
 - aclocal

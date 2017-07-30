@@ -1,0 +1,27 @@
+#+TITLE: [.nwtb] installation script
+#+AUTHOR: Nahuel Jesús Sacchetti
+
+* Introduction
+
+Welcome to the *[.nwtb]* installation script. This is the literate
+programming version, you will need to build it and then run. Check out
+the [[Instructions][instructions]] section to learn how to do it, though
+first I recommend to read everything.
+
+** What is this?
+
+** How does it work?
+
+** Do you want to read more?
+
+*** TODO Add blog post
+
+** TODO =TODOs=
+
+* Instructions
+
+** TODO Dependencies
+
+** TODO Disclaimer
+
+** TODO Start using .nwtb

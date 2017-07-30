@@ -337,13 +337,14 @@ set include=yes
 
 Mutt is keyboard only. These are my keybindings separated by category.
 
-** Action
+** Actions
 
 #+BEGIN_SRC bash
 bind generic,pager q exit
 
 bind generic <Return> select-entry
 bind index <Return> display-message
+bind index s sync-mailbox
 
 bind index,pager a group-reply
 bind index,pager d delete-message
@@ -390,7 +391,6 @@ bind generic,index,pager N search-opposite
 #+BEGIN_SRC bash
 bind index : enter-command
 
-bind generic,index,pager \Ch help
 bind generic,index,pager H help
 bind index \Cx\Cc quit
 #+END_SRC
