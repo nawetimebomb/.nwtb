@@ -1,0 +1,21 @@
+#+TITLE: WeeChat Configuration File
+#+AUTHOR: Nahuel Jesús Sacchetti
+
+* Introduction
+
+Welcome to my WeeChat configuration file. Here I've a literate programming
+version of my WeeChat.
+
+#+BEGIN_QUOTE
+WeeChat is a fast, light and extensible chat client. It runs on many
+platforms like Linux, Unix, BSD, GNU Hurd, Mac OSX and Windows
+(Bash/Ubuntu and Cygwin).
+#+END_QUOTE
+
+Please note that to build this file you will need
+Emacs with =org-mode= and =org-plus-contrib= package.
+
+** =TODOs=
+
+This section is intended to have all the things I want =todo= but I do
+not have time to right now.
