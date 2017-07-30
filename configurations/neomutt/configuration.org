@@ -31,7 +31,7 @@ not have time to right now.
 
 * Personal Information
 
-*How am I?* Set my personal and account information. *Note*: This
+*Who am I?* Set my personal and account information. *Note*: This
 information is in a private repository.
 
 #+BEGIN_SRC bash
@@ -61,6 +61,7 @@ The defaults are quite weird and I found out there someone did already a
 list to cleanup default keybindings. Spotted [[https://github.com/iagox86/NeoMutt][here]]
 
 #+BEGIN_SRC bash
+bind generic,pager,editor,index | noop
 bind generic,pager,editor,index a noop
 bind generic,pager,editor,index b noop
 bind generic,pager,editor,index c noop
@@ -114,7 +115,6 @@ bind generic,pager,editor,index X noop
 bind generic,pager,editor,index Y noop
 bind generic,pager,editor,index Z noop
 
-bind generic,pager,editor,index <Tab>      noop
 bind generic,pager,editor,index <Space>    noop
 bind generic,pager,editor,index <PageUp>   noop
 bind generic,pager,editor,index <PageDown> noop
@@ -202,7 +202,6 @@ bind generic,pager,editor,index \CX noop
 bind generic,pager,editor,index \CY noop
 bind generic,pager,editor,index \CZ noop
 
-bind generic,pager,editor,index \C<Tab>      noop
 bind generic,pager,editor,index \C<Space>    noop
 bind generic,pager,editor,index \C<PageUp>   noop
 bind generic,pager,editor,index \C<PageDown> noop
@@ -289,7 +288,6 @@ bind generic,pager,editor,index <Esc>X noop
 bind generic,pager,editor,index <Esc>Y noop
 bind generic,pager,editor,index <Esc>Z noop
 
-bind generic,pager,editor,index <Esc><Tab>      noop
 bind generic,pager,editor,index <Esc><Space>    noop
 bind generic,pager,editor,index <Esc><PageUp>   noop
 bind generic,pager,editor,index <Esc><PageDown> noop
@@ -342,7 +340,7 @@ Mutt is keyboard only. These are my keybindings separated by category.
 ** Action
 
 #+BEGIN_SRC bash
-bind pager q exit
+bind generic,pager q exit
 
 bind generic <Return> select-entry
 bind index <Return> display-message
@@ -394,7 +392,7 @@ bind index : enter-command
 
 bind generic,index,pager \Ch help
 bind generic,index,pager H help
-bind index,pager \Cx\Cc quit
+bind index \Cx\Cc quit
 #+END_SRC
 
 * Theming
