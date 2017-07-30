@@ -1,0 +1,101 @@
+#+TITLE: X Configuration File
+#+AUTHOR: Nahuel Jesús Sacchetti
+
+* Introduction
+
+Welcome to my X configuration file. Here I've a literate programming
+version of my X.
+
+#+BEGIN_QUOTE
+The xinit program allows a user to manually start an X display server.
+The startx script is a front-end for xinit.
+#+END_QUOTE
+
+Please note that to build this file you will need
+Emacs with =org-mode= and =org-plus-contrib= package.
+
+** =TODOs=
+
+This section is intended to have all the things I want =todo= but I do
+not have time to right now.
+
+* Shebang
+
+As in [[https://en.wikipedia.org/wiki/Shebang_(Unix)][Wikipedia]]...
+
+#+BEGIN_QUOTE
+In computing, a shebang is the character sequence consisting of the
+characters number sign and exclamation mark (#!) at the beginning of a
+script. It is also called sha-bang, hashbang, pound-bang, or hash-pling.
+#+END_QUOTE
+
+#+BEGIN_SRC bash
+#! /bin/bash
+#+END_SRC
+
+* Set Configuration Directory
+
+Since all my configurations are in my directory (which is this
+respository) I always set my environment variable to have an standard
+access everywhere.
+
+*Note:* The installation script always moves this repository folder to
+=$HOME= and then renames it to =.nwtb=.
+
+#+BEGIN_SRC bash
+export NWTB_CONFIG_DIR="$HOME/.nwtb"
+#+END_SRC
+
+* Set Terminal Mode
+
+I don't want to use =Job control mode=. Beucase I use the Terminal a lot
+and I also use Tmux which lets me do =Job control= by my own instead of
+using the keyboard shortcuts. Disable the Job control mode.
+
+#+BEGIN_SRC bash
+set +m
+#+END_SRC
+
+* Set Keyboard Map
+
+Standarize my keyboard options all across the board. This includes:
+
+- Keyboard layout to =us=, excellent for development and also all my
+  keyboards have US layout.
+- Keyboard variant to International AltGr dead keys which allows me to
+  write Spanish letters.
+- Disable the Caps Lock, move it to Ctrl key.
+
+#+BEGIN_SRC bash
+setxbmap us
+setxbmap -variant altgr-intl
+setxbmap -option ctrl:nocaps
+#+END_SRC
+
+* Hide Mouse
+
+I use unclutter which allows me to hide the mouse when I'm not using it
+(I don't use mouse at all). This is another dependecy but it's worth.
+
+#+BEGIN_SRC bash
+unclutter -root -visible &
+#+END_SRC
+
+* Better Visuals
+
+I use a composite manager to have better defaults in my Window Manager.
+I've a configuration of my own in this respository and I call it on
+execution. Check the configuration file
+[[[[file+emacs:~/.nwtb/configurations/X/compton.conf][here]]]]
+
+#+BEGIN_SRC bash
+compton --config $NWTB_CONFIG_DIR/configurations/X/compton.conf &
+#+END_SRC
+
+* Windows Manager
+
+And finally, execute my Windows Manager.
+
+#+BEGIN_SRC bash
+exec i3
+#+END_SRC
