@@ -1,24 +1,21 @@
-# .nwtb [nawetimebomb profiler]
+# .nwtb
 
 ## Introduction
 
-This repository contains my main configurations. All my machines are running UNIX-like
-systems so to keep all these boxes consistent I pulled a collection of
-useful standards.
+This repository contains my main configurations. All my machines are
+running UNIX-like systems so to keep all these boxes consistent I pulled
+a collection of useful standards.
 
 ## Dependencies
 
-As this is an early version it needs a lot of stuff to run (because I actually
-use all these things). I want to move to a more configurable approach in the
-future and reduce the amount of dependencies.
+As this is an early version it needs a lot of stuff to run (because I
+actually use all these things). I want to move to a more configurable
+approach in the future and reduce the amount of dependencies.
 
 - Git
 - Bash (v4+)
-- Emacs
-- Tmux
-- Mutt
-- i3
-- rxvt-unicode
+- Emacs (with org and org-contrib-plus)
+- Termite
 
 ## `TODOs`
 
@@ -88,4 +85,4 @@ options by editting `profile.sh` or any other `sh` file. Feel free.
 
 This is licensed `GNU GPL`.
 
-Copyright (C) 2017, Nahuel Jesús Sacchetti hello@elnawe.com http://elnawe.com.
+Copyright (C) 2017, Nahuel Jesús Sacchetti nahueljsacchetti@gmail.com http://elnawe.com.
