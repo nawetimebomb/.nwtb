@@ -1,4 +1,4 @@
-# .nwtb
+# [.nwtb]
 
 ## Introduction
 
@@ -16,6 +16,18 @@ approach in the future and reduce the amount of dependencies.
 - Bash (v4+)
 - Emacs (with org and org-contrib-plus)
 - Termite
+
+## Table Of Contents
+
+These configuration files are self-explanatory because they were
+developed with the literate programming technique. Take a look!
+
+- [i3 Configuration](configurations/i3/configuration.org)
+- [NeoMutt Configuration](configurations/neomutt/configuration.org)
+- [Tmux Configuration](configurations/tmux/configuration.org)
+-
+  [WeeChat Configuration (WIP)](configurations/weechat/configuration.org)
+- [X Configuration](configurations/X/configuration.org)
 
 ## `TODOs`
 
@@ -85,4 +97,4 @@ options by editting `profile.sh` or any other `sh` file. Feel free.
 
 This is licensed `GNU GPL`.
 
-Copyright (C) 2017, Nahuel Jesús Sacchetti nahueljsacchetti@gmail.com http://elnawe.com.
+Copyright (C) 2017, Nahuel Jesús Sacchetti nahueljsacchetti@gmail.com http://elnawe.com
