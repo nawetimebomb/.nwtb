@@ -7,3 +7,6 @@
 [submodule "applications/tmux"]
 	path = applications/tmux
 	url = https://github.com/tmux/tmux.git
+[submodule "applications/neomutt"]
+	path = applications/neomutt
+	url = https://github.com/neomutt/neomutt.git
