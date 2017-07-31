@@ -66,7 +66,7 @@ A nice-looking status bar with great information, because I mostly use
 Terminal.
 
 #+BEGIN_SRC bash
-set -g status-bg black
+set -g status-bg brightblack
 set -g status-fg white
 set -g status-left ""
 set -g status-position top

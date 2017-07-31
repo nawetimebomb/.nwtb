@@ -407,9 +407,9 @@ As all my other things, it follows Zenburn theme.
 #+BEGIN_SRC bash
 color indicator black white
 
-color index red black ~D
-color index green black ~N
-color index yellow black ~O
+color index red brightblack ~D
+color index green brightblack ~N
+color index yellow brightblack ~O
 
 color status black green
 
