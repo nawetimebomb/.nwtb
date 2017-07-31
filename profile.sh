@@ -14,8 +14,9 @@ export NWTB_PACKAGES=${NWTB}/packages
 
 # ALIASES
 alias editor="emacsclient -t"
-alias reload-termite="$NWTB/build-org-files.sh --termite && killall -USR1 termite"
-alias reload-neomutt="$NWTB/build-org-files.sh --neomutt"
+alias reload-mutt="sh $NWTB/build-org-files.sh --mutt"
+alias reload-termite="sh $NWTB/build-org-files.sh --termite && killall -USR1 termite"
+alias reload-tmux="sh $NWTB/build-org-files.sh --tmux && tmux source-file $HOME/.tmux.conf"
 alias g=git
 
 # ENV VARIABLES

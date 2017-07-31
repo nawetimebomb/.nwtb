@@ -196,8 +196,12 @@ set -g @offline_icon '#[fg=brightred]offline'
 ** Run Tmux Plugin Manager
 
 This is a really important line. Starts the =tpm= after all
-configuration is done:
+configuration is done.
+
+*Note:* I sometimes use my phone and =tpm= doesn't run because of
+folders are incompatible. That's why I do not initialize tpm if I'm on
+phone.
 
 #+BEGIN_SRC bash
-run '~/.tmux/plugins/tpm/tpm'
+if-shell "uname -o | grep -q GNU/Linux" "run '~/.tmux/plugins/tpm/tpm'"
 #+END_SRC
