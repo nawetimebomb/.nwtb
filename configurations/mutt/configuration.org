@@ -366,6 +366,11 @@ bind index \Cp previous-entry
 bind index \Cn next-entry
 bind pager \Cp previous-line
 bind pager \Cn next-line
+bind index k previous-entry
+bind index j next-entry
+bind pager k previous-line
+bind pager j next-line
+
 
 bind index,pager \Cb previous-thread
 bind index,pager \Cf next-thread
