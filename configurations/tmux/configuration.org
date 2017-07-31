@@ -75,6 +75,9 @@ set -g status-right "#[bold] #{pane_current_path}\
     #{online_status}\
     #[default] #[bg=green,fg=black] %A, %B %d %H:%M "
 set -g status-right-length 200
+
+if-shell "uname -o | grep -q Android"\
+ "set -g status-right '#[default,fg=cyan]#S #[bg=green,fg=black] %A, %B %d %H:%M '"
 #+END_SRC
 
 ** Windows
