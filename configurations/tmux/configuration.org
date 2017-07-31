@@ -108,7 +108,7 @@ setw -g mode-keys emacs
 Make Emacs create the new configuration and then make Tmux reload.
 
 #+BEGIN_SRC bash
-bind r run "~/.nwtb/build-org-files.sh --tmux && tmux source-file ~/.tmux.conf && tmux display-message Reloaded!"
+bind r run "sh $HOME/.nwtb/build-org-files.sh --tmux && tmux source-file ~/.tmux.conf && tmux display-message Reloaded!"
 #+END_SRC
 
 ** The Tmux Key
