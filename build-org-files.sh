@@ -22,7 +22,7 @@ runEmacsBabel() {
     FILE=$1
     OUTPUT=$2
 
-    /usr/bin/emacs --batch --eval "(require 'org)" --eval "(org-babel-tangle-file (symbol-name '$FILE) (symbol-name '$OUTPUT))"
+    emacs --batch --eval "(require 'org)" --eval "(org-babel-tangle-file (symbol-name '$FILE) (symbol-name '$OUTPUT))"
 }
 
 buildFor() {

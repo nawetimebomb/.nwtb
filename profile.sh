@@ -13,13 +13,13 @@ export NWTB=$HOME/.nwtb
 export NWTB_PACKAGES=${NWTB}/packages
 
 # ALIASES
-alias emacs="emacsclient -t"
+alias editor="emacsclient -t"
 alias reload-termite="$NWTB/build-org-files.sh --termite && killall -USR1 termite"
 alias reload-neomutt="$NWTB/build-org-files.sh --neomutt"
 alias g=git
 
 # ENV VARIABLES
-export EDITOR="/usr/bin/emacsclient -t"
+export EDITOR="editor"
 export PS1=" \[\033[0;92m\]\W ${ALEPH_ICON} \[\033[0;m\] "
 export TERMINAL="termite"
 export SECRETS="$HOME/.elnawe.secrets/"
