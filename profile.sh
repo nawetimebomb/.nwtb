@@ -20,14 +20,10 @@ alias reload-tmux="sh $NWTB/build-org-files.sh --tmux && tmux source-file $HOME/
 alias g=git
 
 # ENV VARIABLES
-export EDITOR="editor"
+export EDITOR="emacsclient -t"
 export PS1=" \[\033[0;92m\]\W ${ALEPH_ICON} \[\033[0;m\] "
 export TERMINAL="termite"
 export SECRETS="$HOME/.elnawe.secrets/"
-
-# LAUNCH PACKAGES
-BASE16_SHELL=$NWTB_PACKAGES/base16-shell/
-[ -n "$PS1" ] && [ -s $BASE16_SHELL/profile_helper.sh ] && eval "$($BASE16_SHELL/profile_helper.sh)"
 
 # LAUNCH TMUX WHEN START
 if [ -z "$TMUX" ]; then tmux new-session -A -s main; fi
