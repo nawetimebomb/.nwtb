@@ -30,7 +30,7 @@ buildFor() {
 
     if [ $TYPE = "--tmux" ]; then
         build_Tmux
-    elif [ $TYPE = "--neomutt" ]; then
+    elif [ $TYPE = "--mutt" ]; then
         build_Neomutt
     elif [ $TYPE = "--x" ]; then
         build_X
@@ -64,14 +64,14 @@ build_X() {
 }
 # end     --     ~/.xinitrc
 
-# start   --     neomutt/configuration.org
+# start   --     mutt/configuration.org
 build_Neomutt() {
-    INPUT__MUTT_CONFIG_FILE="$INPUT__CONFIGURATIONS_DIR/neomutt/configuration.org"
-    OUTPUT__MUTT_CONFIG_FILE="$HOME/.neomuttrc"
+    INPUT__MUTT_CONFIG_FILE="$INPUT__CONFIGURATIONS_DIR/mutt/configuration.org"
+    OUTPUT__MUTT_CONFIG_FILE="$HOME/.muttrc"
 
     runEmacsBabel $INPUT__MUTT_CONFIG_FILE $OUTPUT__MUTT_CONFIG_FILE
 }
-# end     --     ~/.neomuttrc
+# end     --     ~/.muttrc
 
 # start   --     tmux/configuration.org
 build_Tmux() {

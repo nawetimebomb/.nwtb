@@ -1,10 +1,10 @@
-#+TITLE: NeoMutt Configuration File
+#+TITLE: Mutt Configuration File
 #+AUTHOR: Nahuel Jesús Sacchetti
 
 * Introduction
 
-Welcome to my NeoMutt configuration file. Here I've a literate programming
-version of my NeoMutt.
+Welcome to my Mutt configuration file. Here I've a literate programming
+version of my Mutt.
 
 #+BEGIN_QUOTE
 "All mail clients suck. This one just sucks less." -Michael R. Elkins,
