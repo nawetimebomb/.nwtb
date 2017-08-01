@@ -75,6 +75,15 @@ mode $session {
 }
 #+END_SRC
 
+* Floating Windows
+
+As there are some windows that doesn't need to be fixed in tilling mode,
+I make them floating enable as soon they are opened.
+
+#+BEGIN_SRC bash
+for_window [class="feh"] floating enable
+#+END_SRC
+
 * Keyboard Shortcuts
 
 I don't use mouse at all, it's important to me to keep all the apps or
@@ -180,6 +189,14 @@ bindsym $mod+Shift+7 move container to workspace 7
 bindsym $mod+Shift+8 move container to workspace 8
 bindsym $mod+Shift+9 move container to workspace 9
 bindsym $mod+Shift+0 move container to workspace 10
+#+END_SRC
+
+* New Windows
+
+Start new windows with no title bar and no border.
+
+#+BEGIN_SRC bash
+new_window none
 #+END_SRC
 
 * On Startup
