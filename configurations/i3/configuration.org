@@ -81,7 +81,7 @@ As there are some windows that doesn't need to be fixed in tilling mode,
 I make them floating enable as soon they are opened.
 
 #+BEGIN_SRC bash
-for_window [class="feh"] floating enable
+for_window [class="feh"] floating enable border pixel 5
 #+END_SRC
 
 * Keyboard Shortcuts

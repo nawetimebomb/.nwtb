@@ -36,6 +36,8 @@ buildFor() {
         build_X
     elif [ $TYPE = "--i3" ]; then
         build_i3
+    elif [ $TYPE = "--rtv" ]; then
+        build_Rtv
     elif [ $TYPE = "--termite" ]; then
         build_Termite
     else
@@ -43,6 +45,17 @@ buildFor() {
         exit 1
     fi
 }
+
+# start   --     rtv/configuration.org
+build_Rtv() {
+    INPUT__RTV_CONFIG_FILE="$INPUT__CONFIGURATIONS_DIR/rtv/configuration.org"
+    OUTPUT__RTV_CONFIG_DIR="$HOME/.config/rtv"
+    OUTPUT__RTV_CONFIG_FILE="$OUTPUT__RTV_CONFIG_DIR/rtv.cfg"
+
+    mkdir -p $OUTPUT__RTV_CONFIG_DIR &&
+        runEmacsBabel $INPUT__RTV_CONFIG_FILE $OUTPUT__RTV_CONFIG_FILE
+}
+# end     --     ~/.config/rtv/rtv.cfg
 
 # start   --     termite/configuration.org
 build_Termite() {
@@ -103,6 +116,7 @@ if [ $# -eq 0 ]; then
     build_Tmux
     build_Neomutt
     build_i3
+    build_Rtv
 
     printFormattedMessage "Done!"
 
