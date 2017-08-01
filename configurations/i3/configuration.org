@@ -68,6 +68,7 @@ mode $session {
     bindsym l exec $psst i3lock -c 3f3f3f; mode "default"
     bindsym p exec $psst systemctl poweroff; mode "default"
     bindsym r exec $psst systemctl reboot; mode "default"
+    bindsym s exec $psst systemctl suspend; mode "default"
 
     bindsym q mode "default"
     bindsym Escape mode "default"
