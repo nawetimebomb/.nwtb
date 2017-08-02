@@ -32,7 +32,7 @@ of them.
 - Shift: Left Shift key.
 - space: Spacebar.
 
-* Important defaults
+* Important Defaults
 
 ** i3 mod Key
 
@@ -51,6 +51,8 @@ these "styling" or visual configurations inside here.
 
 #+BEGIN_SRC bash
 font pango:DejaVu Sans Mono 8
+
+exec --no-startup-id feh --bg-scale ~/Dropbox/Wallpapers/doyourwork.jpg
 #+END_SRC
 
 * Custom Modes
