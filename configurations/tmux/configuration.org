@@ -26,6 +26,17 @@ not have time to right now.
 As most of this Terminal programs and configurations you will see things
 like =C-v=, this means =Control-v= (the letter =v=).
 
+* Options
+
+Some standard configurations for the current session.
+
+#+BEGIN_SRC bash
+set -g base-index 1
+set -g pane-base-index 1
+set -g renumber-windows on
+set -g status-keys emacs
+#+END_SRC
+
 * Theming
 
 Colorizing is not what I do the best but sometimes I like to do it.
@@ -91,7 +102,7 @@ set -g window-status-format " #I #W "
 setw -g window-status-fg white
 #+END_SRC
 
-* Keyboard Bindings
+* Keybindings
 
 As Tmux is a keyboard-driven Terminal multiplexer, I've quite a few
 keyboard bindings to do the job. Here they are.
@@ -153,6 +164,7 @@ bind h select-pane -L
 bind j select-pane -D
 bind k select-pane -U
 bind l select-pane -R
+bind m command-prompt -p index "select-window -t ':%%'"
 #+END_SRC
 
 *** Splitting
@@ -164,8 +176,14 @@ vertical splitting. They pretty much explain themselves.
 unbind '"'
 unbind %
 
-bind | split-window -h
+bind / command-prompt "split-window -v 'exec man %%'"
+bind 1 break-pane
+bind 2 split-window -v
+bind 3 split-window -h
+bind 0 confirm-before kill-pane
+bind o select-pane -t :.+
 bind - split-window -v
+bind | split-window -h
 #+END_SRC
 
 * Plugins
