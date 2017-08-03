@@ -206,13 +206,13 @@ new_window none
 This configuration is executed when i3 starts up, after loaded by the
 .xinitrc file.
 
-** Emacs Daemon
+** Daemons
 
-I start the Emacs Daemon on startup and then just connect to that with
-=emacsclient=
+Go demons, go!
 
 #+BEGIN_SRC bash
-exec /usr/bin/emacs --daemon
+exec --no-startup-id emacs --daemon
+exec --no-startup-id bitlbee -D -u $(whoami)
 #+END_SRC
 
 ** Hide Mouse
