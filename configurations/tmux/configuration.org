@@ -56,8 +56,8 @@ set -g message-fg black
 When in =copy-mode=, I like to keep the styles.
 
 #+BEGIN_SRC bash
-setw -g mode-bg green
-setw -g mode-fg black
+setw -g mode-bg brightblack
+setw -g mode-fg yellow
 #+END_SRC
 
 ** Panes
