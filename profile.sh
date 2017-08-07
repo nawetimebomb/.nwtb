@@ -24,6 +24,7 @@ alias reload-tmux="sh $NWTB/build-org-files.sh --tmux && tmux source-file $HOME/
 
 # ENV VARIABLES
 export EDITOR="emacsclient -t"
+export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin
 export PS1=" \[\033[0;92m\]\W ${ALEPH_ICON} \[\033[0;m\] "
 export TERMINAL="termite"
 export SECRETS="$HOME/.elnawe.secrets/"
