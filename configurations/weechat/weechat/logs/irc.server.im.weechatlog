@@ -1,0 +1,699 @@
+2017-07-13 19:47:34	--	irc: conectando al servidor localhost/6667...
+2017-07-13 19:47:34	--	irc: conectado a localhost/6667 (::1)
+2017-07-13 19:47:34	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-07-13 19:47:34	--	Welcome to the BitlBee gateway, nawe
+2017-07-13 19:47:34	--	Host localhost.localdomain is running BitlBee 3.5.1.
+2017-07-13 19:47:34	--	BitlBee <http://www.bitlbee.org/>
+2017-07-13 19:47:34	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-07-13 19:47:34	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-07-13 19:47:34	--	- localhost.localdomain Message Of The Day -
+2017-07-13 19:47:34	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-07-13 19:47:34	--	-
+2017-07-13 19:47:34	--	- This server is running BitlBee version 3.5.1.
+2017-07-13 19:47:34	--	- The newest version can be found on http://www.bitlbee.org/
+2017-07-13 19:47:34	--	-
+2017-07-13 19:47:34	--	- You are getting this message because the server administrator has not
+2017-07-13 19:47:34	--	- yet had the time (or need) to change it.
+2017-07-13 19:47:34	--	-
+2017-07-13 19:47:34	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-07-13 19:47:34	--	- Relay Chat server. Please see the site mentioned above for more
+2017-07-13 19:47:34	--	- information.
+2017-07-13 19:47:34	--	-
+2017-07-13 19:47:34	--	- The developers of the Bee hope you have a buzzing time.
+2017-07-13 19:47:34	--	- -- BitlBee development team.
+2017-07-13 19:47:34	--	-
+2017-07-13 19:47:34	--	- ... Buzzing, haha, get it?
+2017-07-13 19:47:34	--	End of MOTD
+2017-07-13 19:47:34	--	Modo de usuario [+s] por nawe
+2017-07-13 19:59:27	=!=	irc: ¡este buffer no es un canal!
+2017-07-13 19:59:34	--	Modo de usuario [+R] por nawe
+2017-07-13 19:59:57	--	Modo de usuario [-R] por nawe
+2017-07-13 19:59:57	--	Eres conocido ahora como google
+2017-07-13 20:00:12	--	Modo de usuario [+R] por google
+2017-07-13 20:08:46	--	rbianucci :Invalid channel name
+2017-07-13 20:39:30	--	irc: desconectado del servidor
+2017-07-13 20:39:34	--	irc: conectando al servidor localhost/6667...
+2017-07-13 20:39:34	--	irc: conectado a localhost/6667 (::1)
+2017-07-13 20:39:34	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-07-13 20:39:34	--	Welcome to the BitlBee gateway, nawe
+2017-07-13 20:39:34	--	Host localhost.localdomain is running BitlBee 3.5.1.
+2017-07-13 20:39:34	--	BitlBee <http://www.bitlbee.org/>
+2017-07-13 20:39:34	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-07-13 20:39:34	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-07-13 20:39:34	--	- localhost.localdomain Message Of The Day -
+2017-07-13 20:39:34	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-07-13 20:39:34	--	-
+2017-07-13 20:39:34	--	- This server is running BitlBee version 3.5.1.
+2017-07-13 20:39:34	--	- The newest version can be found on http://www.bitlbee.org/
+2017-07-13 20:39:34	--	-
+2017-07-13 20:39:34	--	- You are getting this message because the server administrator has not
+2017-07-13 20:39:34	--	- yet had the time (or need) to change it.
+2017-07-13 20:39:34	--	-
+2017-07-13 20:39:34	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-07-13 20:39:34	--	- Relay Chat server. Please see the site mentioned above for more
+2017-07-13 20:39:34	--	- information.
+2017-07-13 20:39:34	--	-
+2017-07-13 20:39:34	--	- The developers of the Bee hope you have a buzzing time.
+2017-07-13 20:39:34	--	- -- BitlBee development team.
+2017-07-13 20:39:34	--	-
+2017-07-13 20:39:34	--	- ... Buzzing, haha, get it?
+2017-07-13 20:39:34	--	End of MOTD
+2017-07-13 20:39:34	--	Modo de usuario [+s] por nawe
+2017-07-13 20:45:59	--	Modo de usuario [+R] por nawe
+2017-07-13 20:52:17	--	nawe ha invitado a rbianucci a #esto
+2017-07-13 21:27:48	--	irc: desconectado del servidor
+2017-07-13 21:27:50	--	irc: conectando al servidor localhost/6667...
+2017-07-13 21:27:50	--	irc: conectado a localhost/6667 (::1)
+2017-07-13 21:27:50	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-07-13 21:27:50	--	Welcome to the BitlBee gateway, nawe
+2017-07-13 21:27:50	--	Host localhost.localdomain is running BitlBee 3.5.1.
+2017-07-13 21:27:50	--	BitlBee <http://www.bitlbee.org/>
+2017-07-13 21:27:50	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-07-13 21:27:50	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-07-13 21:27:50	--	- localhost.localdomain Message Of The Day -
+2017-07-13 21:27:50	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-07-13 21:27:50	--	-
+2017-07-13 21:27:50	--	- This server is running BitlBee version 3.5.1.
+2017-07-13 21:27:50	--	- The newest version can be found on http://www.bitlbee.org/
+2017-07-13 21:27:50	--	-
+2017-07-13 21:27:50	--	- You are getting this message because the server administrator has not
+2017-07-13 21:27:50	--	- yet had the time (or need) to change it.
+2017-07-13 21:27:50	--	-
+2017-07-13 21:27:50	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-07-13 21:27:50	--	- Relay Chat server. Please see the site mentioned above for more
+2017-07-13 21:27:50	--	- information.
+2017-07-13 21:27:50	--	-
+2017-07-13 21:27:50	--	- The developers of the Bee hope you have a buzzing time.
+2017-07-13 21:27:50	--	- -- BitlBee development team.
+2017-07-13 21:27:50	--	-
+2017-07-13 21:27:50	--	- ... Buzzing, haha, get it?
+2017-07-13 21:27:50	--	End of MOTD
+2017-07-13 21:27:50	--	Modo de usuario [+s] por nawe
+2017-07-13 21:28:04	--	Modo de usuario [+R] por nawe
+2017-07-13 21:49:22	--	irc: desconectado del servidor
+2017-07-13 21:53:34	--	irc: conectando al servidor localhost/6667...
+2017-07-13 21:53:34	--	irc: conectado a localhost/6667 (::1)
+2017-07-13 21:53:34	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-07-13 21:53:34	--	Welcome to the BitlBee gateway, nawe
+2017-07-13 21:53:34	--	Host localhost.localdomain is running BitlBee 3.5.1.
+2017-07-13 21:53:34	--	BitlBee <http://www.bitlbee.org/>
+2017-07-13 21:53:34	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-07-13 21:53:34	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-07-13 21:53:34	--	- localhost.localdomain Message Of The Day -
+2017-07-13 21:53:34	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-07-13 21:53:34	--	-
+2017-07-13 21:53:34	--	- This server is running BitlBee version 3.5.1.
+2017-07-13 21:53:34	--	- The newest version can be found on http://www.bitlbee.org/
+2017-07-13 21:53:34	--	-
+2017-07-13 21:53:34	--	- You are getting this message because the server administrator has not
+2017-07-13 21:53:34	--	- yet had the time (or need) to change it.
+2017-07-13 21:53:34	--	-
+2017-07-13 21:53:34	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-07-13 21:53:34	--	- Relay Chat server. Please see the site mentioned above for more
+2017-07-13 21:53:34	--	- information.
+2017-07-13 21:53:34	--	-
+2017-07-13 21:53:34	--	- The developers of the Bee hope you have a buzzing time.
+2017-07-13 21:53:34	--	- -- BitlBee development team.
+2017-07-13 21:53:34	--	-
+2017-07-13 21:53:34	--	- ... Buzzing, haha, get it?
+2017-07-13 21:53:34	--	End of MOTD
+2017-07-13 21:53:34	--	Modo de usuario [+s] por nawe
+2017-07-13 21:53:40	--	Modo de usuario [+R] por nawe
+2017-07-13 22:10:03	--	irc: desconectado del servidor
+2017-07-13 22:14:36	--	irc: conectando al servidor localhost/6667...
+2017-07-13 22:14:36	--	irc: conectado a localhost/6667 (::1)
+2017-07-13 22:14:36	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-07-13 22:14:36	--	Welcome to the BitlBee gateway, nawe
+2017-07-13 22:14:36	--	Host localhost.localdomain is running BitlBee 3.5.1.
+2017-07-13 22:14:36	--	BitlBee <http://www.bitlbee.org/>
+2017-07-13 22:14:36	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-07-13 22:14:36	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-07-13 22:14:36	--	- localhost.localdomain Message Of The Day -
+2017-07-13 22:14:36	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-07-13 22:14:36	--	-
+2017-07-13 22:14:36	--	- This server is running BitlBee version 3.5.1.
+2017-07-13 22:14:36	--	- The newest version can be found on http://www.bitlbee.org/
+2017-07-13 22:14:36	--	-
+2017-07-13 22:14:36	--	- You are getting this message because the server administrator has not
+2017-07-13 22:14:36	--	- yet had the time (or need) to change it.
+2017-07-13 22:14:36	--	-
+2017-07-13 22:14:36	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-07-13 22:14:36	--	- Relay Chat server. Please see the site mentioned above for more
+2017-07-13 22:14:36	--	- information.
+2017-07-13 22:14:36	--	-
+2017-07-13 22:14:36	--	- The developers of the Bee hope you have a buzzing time.
+2017-07-13 22:14:36	--	- -- BitlBee development team.
+2017-07-13 22:14:36	--	-
+2017-07-13 22:14:36	--	- ... Buzzing, haha, get it?
+2017-07-13 22:14:36	--	End of MOTD
+2017-07-13 22:14:36	--	Modo de usuario [+s] por nawe
+2017-07-13 22:14:42	--	Modo de usuario [+R] por nawe
+2017-07-13 22:17:20	--	irc: desconectado del servidor
+2017-07-13 22:17:59	--	irc: conectando al servidor localhost/6667...
+2017-07-13 22:17:59	--	irc: conectado a localhost/6667 (::1)
+2017-07-13 22:17:59	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-07-13 22:17:59	--	Welcome to the BitlBee gateway, nawe
+2017-07-13 22:17:59	--	Host localhost.localdomain is running BitlBee 3.5.1.
+2017-07-13 22:17:59	--	BitlBee <http://www.bitlbee.org/>
+2017-07-13 22:17:59	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-07-13 22:17:59	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-07-13 22:17:59	--	- localhost.localdomain Message Of The Day -
+2017-07-13 22:17:59	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-07-13 22:17:59	--	-
+2017-07-13 22:17:59	--	- This server is running BitlBee version 3.5.1.
+2017-07-13 22:17:59	--	- The newest version can be found on http://www.bitlbee.org/
+2017-07-13 22:17:59	--	-
+2017-07-13 22:17:59	--	- You are getting this message because the server administrator has not
+2017-07-13 22:17:59	--	- yet had the time (or need) to change it.
+2017-07-13 22:17:59	--	-
+2017-07-13 22:17:59	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-07-13 22:17:59	--	- Relay Chat server. Please see the site mentioned above for more
+2017-07-13 22:17:59	--	- information.
+2017-07-13 22:17:59	--	-
+2017-07-13 22:17:59	--	- The developers of the Bee hope you have a buzzing time.
+2017-07-13 22:17:59	--	- -- BitlBee development team.
+2017-07-13 22:17:59	--	-
+2017-07-13 22:17:59	--	- ... Buzzing, haha, get it?
+2017-07-13 22:17:59	--	End of MOTD
+2017-07-13 22:17:59	--	Modo de usuario [+s] por nawe
+2017-07-13 22:18:08	--	irc: desconectado del servidor
+2017-07-13 22:18:36	--	irc: conectando al servidor localhost/6667...
+2017-07-13 22:18:36	--	irc: conectado a localhost/6667 (::1)
+2017-07-13 22:18:36	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-07-13 22:18:36	--	Welcome to the BitlBee-LIBPURPLE gateway, nawe
+2017-07-13 22:18:36	--	Host localhost.localdomain is running BitlBee-LIBPURPLE 3.5.1.
+2017-07-13 22:18:36	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2017-07-13 22:18:36	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-07-13 22:18:36	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-07-13 22:18:36	--	- localhost.localdomain Message Of The Day -
+2017-07-13 22:18:36	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-07-13 22:18:36	--	-
+2017-07-13 22:18:36	--	- This server is running BitlBee version 3.5.1.
+2017-07-13 22:18:36	--	- The newest version can be found on http://www.bitlbee.org/
+2017-07-13 22:18:36	--	-
+2017-07-13 22:18:36	--	- You are getting this message because the server administrator has not
+2017-07-13 22:18:36	--	- yet had the time (or need) to change it.
+2017-07-13 22:18:36	--	-
+2017-07-13 22:18:36	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-07-13 22:18:36	--	- Relay Chat server. Please see the site mentioned above for more
+2017-07-13 22:18:36	--	- information.
+2017-07-13 22:18:36	--	-
+2017-07-13 22:18:36	--	- The developers of the Bee hope you have a buzzing time.
+2017-07-13 22:18:36	--	- -- BitlBee development team.
+2017-07-13 22:18:36	--	-
+2017-07-13 22:18:36	--	- ... Buzzing, haha, get it?
+2017-07-13 22:18:36	--	End of MOTD
+2017-07-13 22:18:36	--	Modo de usuario [+s] por nawe
+2017-07-13 22:32:33	--	Incorrect password
+2017-07-13 22:39:46	--	#NahuelJesusSacchetti: Error joining channel (check control channel?)
+2017-07-13 22:40:03	--	#NahuelJesusSacchetti: Error joining channel (check control channel?)
+2017-07-13 22:41:09	--	NicolasAlbertoBravo :Invalid channel name
+2017-07-13 22:46:19	--	NicolasAcquiviva: No such nick
+2017-07-13 22:46:30	--	nawe ha invitado a NicolasAcquaviva a #test
+2017-07-13 22:47:03	--	#NahuelJesusSacchetti: Error joining channel (check control channel?)
+2017-07-13 22:50:56	--	Modo de usuario [+R] por nawe
+2017-07-13 23:00:26	--	#private-chat-7be489f9-8: Error joining channel (check control channel?)
+2017-07-13 23:03:29	--	#private-chat-09393b63-7: Error joining channel (check control channel?)
+2017-07-13 23:17:06	--	nawe ha invitado a RominaBianucci a #private-chat-58915510-7
+2017-07-14 01:53:38	--	irc: desconectado del servidor
+2017-07-15 12:51:56	--	irc: conectando al servidor localhost/6667...
+2017-07-15 12:51:56	=!=	irc: conexión rechazada
+2017-07-15 12:51:56	--	irc: reconectando al servidor en 10 segundos
+2017-07-15 12:52:06	--	irc: reconectando al servidor...
+2017-07-15 12:52:06	--	irc: conectando al servidor localhost/6667...
+2017-07-15 12:52:06	=!=	irc: conexión rechazada
+2017-07-15 12:52:06	--	irc: reconectando al servidor en 20 segundos
+2017-07-15 12:52:26	--	irc: reconectando al servidor...
+2017-07-15 12:52:26	--	irc: conectando al servidor localhost/6667...
+2017-07-15 12:52:26	=!=	irc: conexión rechazada
+2017-07-15 12:52:26	--	irc: reconectando al servidor en 40 segundos
+2017-07-15 12:53:06	--	irc: reconectando al servidor...
+2017-07-15 12:53:06	--	irc: conectando al servidor localhost/6667...
+2017-07-15 12:53:06	=!=	irc: conexión rechazada
+2017-07-15 12:53:06	--	irc: reconectando al servidor en 1 minuto, 20 segundos
+2017-07-15 12:54:26	--	irc: reconectando al servidor...
+2017-07-15 12:54:26	--	irc: conectando al servidor localhost/6667...
+2017-07-15 12:54:26	=!=	irc: conexión rechazada
+2017-07-15 12:54:26	--	irc: reconectando al servidor en 2 minutos, 40 segundos
+2017-07-15 12:57:06	--	irc: reconectando al servidor...
+2017-07-15 12:57:06	--	irc: conectando al servidor localhost/6667...
+2017-07-15 12:57:06	=!=	irc: conexión rechazada
+2017-07-15 12:57:06	--	irc: reconectando al servidor en 5 minutos, 20 segundos
+2017-07-15 13:02:26	--	irc: reconectando al servidor...
+2017-07-15 13:02:26	--	irc: conectando al servidor localhost/6667...
+2017-07-15 13:02:26	=!=	irc: conexión rechazada
+2017-07-15 13:02:26	--	irc: reconectando al servidor en 10 minutos
+2017-07-15 13:12:26	--	irc: reconectando al servidor...
+2017-07-15 13:12:26	--	irc: conectando al servidor localhost/6667...
+2017-07-15 13:12:26	=!=	irc: conexión rechazada
+2017-07-15 13:12:26	--	irc: reconectando al servidor en 10 minutos
+2017-07-15 13:22:26	--	irc: reconectando al servidor...
+2017-07-15 13:22:26	--	irc: conectando al servidor localhost/6667...
+2017-07-15 13:22:26	=!=	irc: conexión rechazada
+2017-07-15 13:22:26	--	irc: reconectando al servidor en 10 minutos
+2017-07-15 13:32:26	--	irc: reconectando al servidor...
+2017-07-15 13:32:26	--	irc: conectando al servidor localhost/6667...
+2017-07-15 13:32:26	=!=	irc: conexión rechazada
+2017-07-15 13:32:26	--	irc: reconectando al servidor en 10 minutos
+2017-07-15 13:42:26	--	irc: reconectando al servidor...
+2017-07-15 13:42:26	--	irc: conectando al servidor localhost/6667...
+2017-07-15 13:42:26	=!=	irc: conexión rechazada
+2017-07-15 13:42:26	--	irc: reconectando al servidor en 10 minutos
+2017-07-15 13:51:18	--	irc: desconectado del servidor
+2017-07-26 20:47:01	--	irc: conectando al servidor localhost/6667...
+2017-07-26 20:47:01	--	irc: conectado a localhost/6667 (::1)
+2017-07-26 20:47:01	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-07-26 20:47:01	--	Welcome to the BitlBee-LIBPURPLE gateway, nawe
+2017-07-26 20:47:01	--	Host localhost.localdomain is running BitlBee-LIBPURPLE 3.5.1.
+2017-07-26 20:47:01	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2017-07-26 20:47:01	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-07-26 20:47:01	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-07-26 20:47:01	--	- localhost.localdomain Message Of The Day -
+2017-07-26 20:47:01	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-07-26 20:47:01	--	-
+2017-07-26 20:47:01	--	- This server is running BitlBee version 3.5.1.
+2017-07-26 20:47:01	--	- The newest version can be found on http://www.bitlbee.org/
+2017-07-26 20:47:01	--	-
+2017-07-26 20:47:01	--	- You are getting this message because the server administrator has not
+2017-07-26 20:47:01	--	- yet had the time (or need) to change it.
+2017-07-26 20:47:01	--	-
+2017-07-26 20:47:01	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-07-26 20:47:01	--	- Relay Chat server. Please see the site mentioned above for more
+2017-07-26 20:47:01	--	- information.
+2017-07-26 20:47:01	--	-
+2017-07-26 20:47:01	--	- The developers of the Bee hope you have a buzzing time.
+2017-07-26 20:47:01	--	- -- BitlBee development team.
+2017-07-26 20:47:01	--	-
+2017-07-26 20:47:01	--	- ... Buzzing, haha, get it?
+2017-07-26 20:47:01	--	End of MOTD
+2017-07-26 20:47:01	--	Modo de usuario [+s] por nawe
+2017-07-26 20:47:46	--	Modo de usuario [+R] por nawe
+2017-07-28 22:10:26	--	irc: conectando al servidor localhost/6667...
+2017-07-28 22:10:26	=!=	irc: conexión rechazada
+2017-07-28 22:10:26	--	irc: reconectando al servidor en 10 segundos
+2017-07-28 22:10:36	--	irc: reconectando al servidor...
+2017-07-28 22:10:36	--	irc: conectando al servidor localhost/6667...
+2017-07-28 22:10:36	=!=	irc: conexión rechazada
+2017-07-28 22:10:36	--	irc: reconectando al servidor en 20 segundos
+2017-07-28 22:10:56	--	irc: reconectando al servidor...
+2017-07-28 22:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 22:10:56	=!=	irc: conexión rechazada
+2017-07-28 22:10:56	--	irc: reconectando al servidor en 40 segundos
+2017-07-28 22:11:36	--	irc: reconectando al servidor...
+2017-07-28 22:11:36	--	irc: conectando al servidor localhost/6667...
+2017-07-28 22:11:36	=!=	irc: conexión rechazada
+2017-07-28 22:11:36	--	irc: reconectando al servidor en 1 minuto, 20 segundos
+2017-07-28 22:12:56	--	irc: reconectando al servidor...
+2017-07-28 22:12:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 22:12:56	=!=	irc: conexión rechazada
+2017-07-28 22:12:56	--	irc: reconectando al servidor en 2 minutos, 40 segundos
+2017-07-28 22:15:36	--	irc: reconectando al servidor...
+2017-07-28 22:15:36	--	irc: conectando al servidor localhost/6667...
+2017-07-28 22:15:36	=!=	irc: conexión rechazada
+2017-07-28 22:15:36	--	irc: reconectando al servidor en 5 minutos, 20 segundos
+2017-07-28 22:20:56	--	irc: reconectando al servidor...
+2017-07-28 22:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 22:20:56	=!=	irc: conexión rechazada
+2017-07-28 22:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-28 22:30:56	--	irc: reconectando al servidor...
+2017-07-28 22:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 22:30:56	=!=	irc: conexión rechazada
+2017-07-28 22:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-28 22:40:56	--	irc: reconectando al servidor...
+2017-07-28 22:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 22:40:56	=!=	irc: conexión rechazada
+2017-07-28 22:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-28 22:50:56	--	irc: reconectando al servidor...
+2017-07-28 22:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 22:50:56	=!=	irc: conexión rechazada
+2017-07-28 22:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-28 23:00:56	--	irc: reconectando al servidor...
+2017-07-28 23:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 23:00:56	=!=	irc: conexión rechazada
+2017-07-28 23:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-28 23:10:56	--	irc: reconectando al servidor...
+2017-07-28 23:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 23:10:56	=!=	irc: conexión rechazada
+2017-07-28 23:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-28 23:20:56	--	irc: reconectando al servidor...
+2017-07-28 23:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 23:20:56	=!=	irc: conexión rechazada
+2017-07-28 23:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-28 23:30:56	--	irc: reconectando al servidor...
+2017-07-28 23:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 23:30:56	=!=	irc: conexión rechazada
+2017-07-28 23:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-28 23:40:56	--	irc: reconectando al servidor...
+2017-07-28 23:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 23:40:56	=!=	irc: conexión rechazada
+2017-07-28 23:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-28 23:50:56	--	irc: reconectando al servidor...
+2017-07-28 23:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-28 23:50:56	=!=	irc: conexión rechazada
+2017-07-28 23:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 00:00:56	--	irc: reconectando al servidor...
+2017-07-29 00:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 00:00:56	=!=	irc: conexión rechazada
+2017-07-29 00:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 00:10:56	--	irc: reconectando al servidor...
+2017-07-29 00:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 00:10:56	=!=	irc: conexión rechazada
+2017-07-29 00:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 00:20:56	--	irc: reconectando al servidor...
+2017-07-29 00:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 00:20:56	=!=	irc: conexión rechazada
+2017-07-29 00:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 00:30:56	--	irc: reconectando al servidor...
+2017-07-29 00:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 00:30:56	=!=	irc: conexión rechazada
+2017-07-29 00:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 00:40:56	--	irc: reconectando al servidor...
+2017-07-29 00:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 00:40:56	=!=	irc: conexión rechazada
+2017-07-29 00:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 00:50:56	--	irc: reconectando al servidor...
+2017-07-29 00:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 00:50:56	=!=	irc: conexión rechazada
+2017-07-29 00:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 01:00:56	--	irc: reconectando al servidor...
+2017-07-29 01:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 01:00:56	=!=	irc: conexión rechazada
+2017-07-29 01:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 01:10:56	--	irc: reconectando al servidor...
+2017-07-29 01:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 01:10:56	=!=	irc: conexión rechazada
+2017-07-29 01:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 01:20:56	--	irc: reconectando al servidor...
+2017-07-29 01:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 01:20:56	=!=	irc: conexión rechazada
+2017-07-29 01:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 01:30:56	--	irc: reconectando al servidor...
+2017-07-29 01:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 01:30:56	=!=	irc: conexión rechazada
+2017-07-29 01:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 01:40:56	--	irc: reconectando al servidor...
+2017-07-29 01:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 01:40:56	=!=	irc: conexión rechazada
+2017-07-29 01:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 01:50:56	--	irc: reconectando al servidor...
+2017-07-29 01:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 01:50:56	=!=	irc: conexión rechazada
+2017-07-29 01:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 02:00:56	--	irc: reconectando al servidor...
+2017-07-29 02:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 02:00:56	=!=	irc: conexión rechazada
+2017-07-29 02:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 02:10:56	--	irc: reconectando al servidor...
+2017-07-29 02:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 02:10:56	=!=	irc: conexión rechazada
+2017-07-29 02:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 02:20:56	--	irc: reconectando al servidor...
+2017-07-29 02:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 02:20:56	=!=	irc: conexión rechazada
+2017-07-29 02:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 02:30:56	--	irc: reconectando al servidor...
+2017-07-29 02:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 02:30:56	=!=	irc: conexión rechazada
+2017-07-29 02:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 02:40:56	--	irc: reconectando al servidor...
+2017-07-29 02:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 02:40:56	=!=	irc: conexión rechazada
+2017-07-29 02:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 02:50:56	--	irc: reconectando al servidor...
+2017-07-29 02:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 02:50:56	=!=	irc: conexión rechazada
+2017-07-29 02:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 03:00:56	--	irc: reconectando al servidor...
+2017-07-29 03:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 03:00:56	=!=	irc: conexión rechazada
+2017-07-29 03:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 03:10:56	--	irc: reconectando al servidor...
+2017-07-29 03:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 03:10:56	=!=	irc: conexión rechazada
+2017-07-29 03:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 03:20:56	--	irc: reconectando al servidor...
+2017-07-29 03:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 03:20:56	=!=	irc: conexión rechazada
+2017-07-29 03:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 03:30:56	--	irc: reconectando al servidor...
+2017-07-29 03:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 03:30:56	=!=	irc: conexión rechazada
+2017-07-29 03:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 03:40:56	--	irc: reconectando al servidor...
+2017-07-29 03:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 03:40:56	=!=	irc: conexión rechazada
+2017-07-29 03:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 03:50:56	--	irc: reconectando al servidor...
+2017-07-29 03:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 03:50:56	=!=	irc: conexión rechazada
+2017-07-29 03:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 04:00:56	--	irc: reconectando al servidor...
+2017-07-29 04:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 04:00:56	=!=	irc: conexión rechazada
+2017-07-29 04:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 04:10:56	--	irc: reconectando al servidor...
+2017-07-29 04:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 04:10:56	=!=	irc: conexión rechazada
+2017-07-29 04:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 04:20:56	--	irc: reconectando al servidor...
+2017-07-29 04:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 04:20:56	=!=	irc: conexión rechazada
+2017-07-29 04:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 04:30:56	--	irc: reconectando al servidor...
+2017-07-29 04:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 04:30:56	=!=	irc: conexión rechazada
+2017-07-29 04:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 04:40:56	--	irc: reconectando al servidor...
+2017-07-29 04:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 04:40:56	=!=	irc: conexión rechazada
+2017-07-29 04:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 04:50:56	--	irc: reconectando al servidor...
+2017-07-29 04:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 04:50:56	=!=	irc: conexión rechazada
+2017-07-29 04:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 05:00:56	--	irc: reconectando al servidor...
+2017-07-29 05:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 05:00:56	=!=	irc: conexión rechazada
+2017-07-29 05:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 05:10:56	--	irc: reconectando al servidor...
+2017-07-29 05:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 05:10:56	=!=	irc: conexión rechazada
+2017-07-29 05:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 05:20:56	--	irc: reconectando al servidor...
+2017-07-29 05:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 05:20:56	=!=	irc: conexión rechazada
+2017-07-29 05:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 05:30:56	--	irc: reconectando al servidor...
+2017-07-29 05:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 05:30:56	=!=	irc: conexión rechazada
+2017-07-29 05:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 05:40:56	--	irc: reconectando al servidor...
+2017-07-29 05:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 05:40:56	=!=	irc: conexión rechazada
+2017-07-29 05:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 05:50:56	--	irc: reconectando al servidor...
+2017-07-29 05:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 05:50:56	=!=	irc: conexión rechazada
+2017-07-29 05:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 06:00:56	--	irc: reconectando al servidor...
+2017-07-29 06:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 06:00:56	=!=	irc: conexión rechazada
+2017-07-29 06:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 06:10:56	--	irc: reconectando al servidor...
+2017-07-29 06:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 06:10:56	=!=	irc: conexión rechazada
+2017-07-29 06:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 06:20:56	--	irc: reconectando al servidor...
+2017-07-29 06:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 06:20:56	=!=	irc: conexión rechazada
+2017-07-29 06:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 06:30:56	--	irc: reconectando al servidor...
+2017-07-29 06:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 06:30:56	=!=	irc: conexión rechazada
+2017-07-29 06:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 06:40:56	--	irc: reconectando al servidor...
+2017-07-29 06:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 06:40:56	=!=	irc: conexión rechazada
+2017-07-29 06:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 06:50:56	--	irc: reconectando al servidor...
+2017-07-29 06:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 06:50:56	=!=	irc: conexión rechazada
+2017-07-29 06:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 07:00:56	--	irc: reconectando al servidor...
+2017-07-29 07:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 07:00:56	=!=	irc: conexión rechazada
+2017-07-29 07:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 07:10:56	--	irc: reconectando al servidor...
+2017-07-29 07:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 07:10:56	=!=	irc: conexión rechazada
+2017-07-29 07:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 07:20:56	--	irc: reconectando al servidor...
+2017-07-29 07:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 07:20:56	=!=	irc: conexión rechazada
+2017-07-29 07:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 07:30:56	--	irc: reconectando al servidor...
+2017-07-29 07:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 07:30:56	=!=	irc: conexión rechazada
+2017-07-29 07:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 07:40:56	--	irc: reconectando al servidor...
+2017-07-29 07:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 07:40:56	=!=	irc: conexión rechazada
+2017-07-29 07:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 07:50:56	--	irc: reconectando al servidor...
+2017-07-29 07:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 07:50:56	=!=	irc: conexión rechazada
+2017-07-29 07:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 08:00:56	--	irc: reconectando al servidor...
+2017-07-29 08:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 08:00:56	=!=	irc: conexión rechazada
+2017-07-29 08:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 08:10:56	--	irc: reconectando al servidor...
+2017-07-29 08:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 08:10:56	=!=	irc: conexión rechazada
+2017-07-29 08:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 08:20:56	--	irc: reconectando al servidor...
+2017-07-29 08:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 08:20:56	=!=	irc: conexión rechazada
+2017-07-29 08:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 08:30:56	--	irc: reconectando al servidor...
+2017-07-29 08:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 08:30:56	=!=	irc: conexión rechazada
+2017-07-29 08:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 08:40:56	--	irc: reconectando al servidor...
+2017-07-29 08:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 08:40:56	=!=	irc: conexión rechazada
+2017-07-29 08:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 08:50:56	--	irc: reconectando al servidor...
+2017-07-29 08:50:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 08:50:56	=!=	irc: conexión rechazada
+2017-07-29 08:50:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 09:00:56	--	irc: reconectando al servidor...
+2017-07-29 09:00:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 09:00:56	=!=	irc: conexión rechazada
+2017-07-29 09:00:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 09:10:56	--	irc: reconectando al servidor...
+2017-07-29 09:10:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 09:10:56	=!=	irc: conexión rechazada
+2017-07-29 09:10:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 09:20:56	--	irc: reconectando al servidor...
+2017-07-29 09:20:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 09:20:56	=!=	irc: conexión rechazada
+2017-07-29 09:20:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 09:30:56	--	irc: reconectando al servidor...
+2017-07-29 09:30:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 09:30:56	=!=	irc: conexión rechazada
+2017-07-29 09:30:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 09:40:56	--	irc: reconectando al servidor...
+2017-07-29 09:40:56	--	irc: conectando al servidor localhost/6667...
+2017-07-29 09:40:56	=!=	irc: conexión rechazada
+2017-07-29 09:40:56	--	irc: reconectando al servidor en 10 minutos
+2017-07-29 09:42:20	--	irc: desconectado del servidor
+2017-08-02 18:50:25	--	irc: conectando al servidor localhost/6667...
+2017-08-02 18:50:25	=!=	irc: conexión rechazada
+2017-08-02 18:50:25	--	irc: reconectando al servidor en 10 segundos
+2017-08-02 18:50:32	--	irc: desconectado del servidor
+2017-08-02 20:55:14	--	irc: conectando al servidor localhost/6667...
+2017-08-02 20:55:14	=!=	irc: conexión rechazada
+2017-08-02 20:55:14	--	irc: reconectando al servidor en 10 segundos
+2017-08-02 20:55:24	--	irc: reconectando al servidor...
+2017-08-02 20:55:24	--	irc: conectando al servidor localhost/6667...
+2017-08-02 20:55:24	=!=	irc: conexión rechazada
+2017-08-02 20:55:24	--	irc: reconectando al servidor en 20 segundos
+2017-08-02 20:55:32		irc: autoreconexión cancelada
+2017-08-02 20:55:32	--	irc: desconectado del servidor
+2017-08-02 22:06:12	--	irc: desconectado del servidor
+2017-08-09 12:59:35	--	irc: conectando al servidor localhost/6667...
+2017-08-09 12:59:35	--	irc: conectado a localhost/6667 (::1)
+2017-08-09 12:59:35	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-08-09 12:59:35	--	Welcome to the BitlBee-LIBPURPLE gateway, nawe
+2017-08-09 12:59:35	--	Host localhost.localdomain is running BitlBee-LIBPURPLE 3.5.1.
+2017-08-09 12:59:35	--	BitlBee-LIBPURPLE <http://www.bitlbee.org/>
+2017-08-09 12:59:35	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-08-09 12:59:35	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-08-09 12:59:35	--	- localhost.localdomain Message Of The Day -
+2017-08-09 12:59:35	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-08-09 12:59:35	--	-
+2017-08-09 12:59:35	--	- This server is running BitlBee version 3.5.1.
+2017-08-09 12:59:35	--	- The newest version can be found on http://www.bitlbee.org/
+2017-08-09 12:59:35	--	-
+2017-08-09 12:59:35	--	- You are getting this message because the server administrator has not
+2017-08-09 12:59:35	--	- yet had the time (or need) to change it.
+2017-08-09 12:59:35	--	-
+2017-08-09 12:59:35	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-08-09 12:59:35	--	- Relay Chat server. Please see the site mentioned above for more
+2017-08-09 12:59:35	--	- information.
+2017-08-09 12:59:35	--	-
+2017-08-09 12:59:35	--	- The developers of the Bee hope you have a buzzing time.
+2017-08-09 12:59:35	--	- -- BitlBee development team.
+2017-08-09 12:59:35	--	-
+2017-08-09 12:59:35	--	- ... Buzzing, haha, get it?
+2017-08-09 12:59:35	--	End of MOTD
+2017-08-09 12:59:35	--	Modo de usuario [+s] por nawe
+2017-08-09 12:59:50	--	Modo de usuario [+R] por nawe
+2017-08-09 13:03:14	--	irc: desconectado del servidor
+2017-08-09 13:04:57	--	irc: conectando al servidor localhost/6667...
+2017-08-09 13:04:57	--	irc: conectado a localhost/6667 (::1)
+2017-08-09 13:04:57	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-08-09 13:04:57	--	Welcome to the BitlBee gateway, nawe
+2017-08-09 13:04:57	--	Host localhost.localdomain is running BitlBee 3.5.1.
+2017-08-09 13:04:57	--	BitlBee <http://www.bitlbee.org/>
+2017-08-09 13:04:57	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-08-09 13:04:57	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-08-09 13:04:57	--	- localhost.localdomain Message Of The Day -
+2017-08-09 13:04:57	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-08-09 13:04:57	--	-
+2017-08-09 13:04:57	--	- This server is running BitlBee version 3.5.1.
+2017-08-09 13:04:57	--	- The newest version can be found on http://www.bitlbee.org/
+2017-08-09 13:04:57	--	-
+2017-08-09 13:04:57	--	- You are getting this message because the server administrator has not
+2017-08-09 13:04:57	--	- yet had the time (or need) to change it.
+2017-08-09 13:04:57	--	-
+2017-08-09 13:04:57	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-08-09 13:04:57	--	- Relay Chat server. Please see the site mentioned above for more
+2017-08-09 13:04:57	--	- information.
+2017-08-09 13:04:57	--	-
+2017-08-09 13:04:57	--	- The developers of the Bee hope you have a buzzing time.
+2017-08-09 13:04:57	--	- -- BitlBee development team.
+2017-08-09 13:04:57	--	-
+2017-08-09 13:04:57	--	- ... Buzzing, haha, get it?
+2017-08-09 13:04:57	--	End of MOTD
+2017-08-09 13:04:57	--	Modo de usuario [+s] por nawe
+2017-08-09 13:05:03	--	Modo de usuario [+R] por nawe
+2017-08-09 13:57:48	⚠	irc: ¡este buffer no es un canal!
+2017-08-09 13:58:01	--	irc.im.FernandoLunaBaratti :Invalid channel name
+2017-08-09 13:58:10	--	irc.im.RominaMazzali :Invalid channel name
+2017-08-09 13:58:19	--	irc.im.NicolasAcquaviva :Invalid channel name
+2017-08-09 14:25:13	--	irc: desconectado del servidor
+2017-08-09 14:25:15	--	irc: conectando al servidor localhost/6667...
+2017-08-09 14:25:15	--	irc: conectado a localhost/6667 (::1)
+2017-08-09 14:25:15	--	localhost.localdomain: BitlBee-IRCd initialized, please go on
+2017-08-09 14:25:15	--	Welcome to the BitlBee gateway, nawe
+2017-08-09 14:25:15	--	Host localhost.localdomain is running BitlBee 3.5.1.
+2017-08-09 14:25:15	--	BitlBee <http://www.bitlbee.org/>
+2017-08-09 14:25:15	--	localhost.localdomain 3.5.1 abiswRo ntC
+2017-08-09 14:25:15	--	PREFIX=(ohv)@%+ CHANTYPES=&# CHANMODES=,,,ntC NICKLEN=23 CHANNELLEN=23 NETWORK=BitlBee SAFELIST CASEMAPPING=rfc1459 MAXTARGETS=1 WATCH=128 FLOOD=0/9999 :are supported by this server
+2017-08-09 14:25:15	--	- localhost.localdomain Message Of The Day -
+2017-08-09 14:25:15	--	- Welcome to the BitlBee server at localhost.localdomain.
+2017-08-09 14:25:15	--	-
+2017-08-09 14:25:15	--	- This server is running BitlBee version 3.5.1.
+2017-08-09 14:25:15	--	- The newest version can be found on http://www.bitlbee.org/
+2017-08-09 14:25:15	--	-
+2017-08-09 14:25:15	--	- You are getting this message because the server administrator has not
+2017-08-09 14:25:15	--	- yet had the time (or need) to change it.
+2017-08-09 14:25:15	--	-
+2017-08-09 14:25:15	--	- For those who don't know it yet, this is not quite a regular Internet
+2017-08-09 14:25:15	--	- Relay Chat server. Please see the site mentioned above for more
+2017-08-09 14:25:15	--	- information.
+2017-08-09 14:25:15	--	-
+2017-08-09 14:25:15	--	- The developers of the Bee hope you have a buzzing time.
+2017-08-09 14:25:15	--	- -- BitlBee development team.
+2017-08-09 14:25:15	--	-
+2017-08-09 14:25:15	--	- ... Buzzing, haha, get it?
+2017-08-09 14:25:15	--	End of MOTD
+2017-08-09 14:25:15	--	Modo de usuario [+s] por nawe
+2017-08-09 14:27:17	--	Modo de usuario [+R] por nawe
+2017-08-09 14:27:31	⚠	irc: ¡este buffer no es un canal!
+2017-08-09 14:27:42	--	#twitter_nawetimebomb: Error joining channel (check control channel?)
+2017-08-09 14:39:28	--	#twitter_nawetimebomb: Error joining channel (check control channel?)
+2017-08-09 15:28:05	⚠	irc: ¡este buffer no es un canal!
+2017-08-09 15:28:08	⚠	irc: ¡este buffer no es un canal!

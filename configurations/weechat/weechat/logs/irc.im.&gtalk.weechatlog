@@ -1,0 +1,32 @@
+2017-07-13 21:03:38	-->	nawe (nawe@localhost.localdomain) has joined &gtalk
+2017-07-13 21:03:38	--	Channel &gtalk: 6 apodos (2 ops, 0 semi-ops, 0 voces, 4 normales)
+2017-07-13 21:04:12	@nawe	save
+2017-07-13 21:04:12	@root	Configuration saved
+2017-07-13 21:04:28	@nawe	channel gtalk set fill_by_account
+2017-07-13 21:04:28	@root	Setting `fill_by_account' does not exist.
+2017-07-13 21:04:35	@nawe	channel gtalk set account 0
+2017-07-13 21:04:35	@root	account = `gtalk2'
+2017-07-13 21:05:54	@nawe	help channel
+2017-07-13 21:05:54	@root	Syntax: channel [<account id>] <action> [<arguments>]
+2017-07-13 21:05:54	@root	 
+2017-07-13 21:05:54	@root	Available actions: del, list, set. See help channel <action> for more information.
+2017-07-13 21:05:54	@root	 
+2017-07-13 21:05:54	@root	There is no channel add command. To create a new channel, just use the IRC /join command. See also help channels and help groupchats.
+2017-07-13 21:06:06	@nawe	help channel set
+2017-07-13 21:06:06	@root	Syntax: channel [<channel id>] set
+2017-07-13 21:06:06	@root	Syntax: channel [<channel id>] set <setting>
+2017-07-13 21:06:06	@root	Syntax: channel [<channel id>] set <setting> <value>
+2017-07-13 21:06:06	@root	Syntax: channel [<channel id>] set -del <setting>
+2017-07-13 21:06:06	@root	 
+2017-07-13 21:06:06	@root	This command can be used to change various settings for channels. Different channel types support different settings. You can see the settings available for a channel by typing channel <channel id> set.
+2017-07-13 21:06:06	@root	 
+2017-07-13 21:06:06	@root	For more information about a setting, see help set <setting>.
+2017-07-13 21:06:06	@root	 
+2017-07-13 21:06:06	@root	The channel ID can be a number (see channel list), or (part of) its name, as long as it matches only one channel. If you want to change settings of the current channel, you can omit the channel ID.
+2017-07-13 21:06:11	@nawe	help channel list
+2017-07-13 21:06:11	@root	Syntax: channel list
+2017-07-13 21:06:11	@root	 
+2017-07-13 21:06:11	@root	This command gives you a list of all the channels you configured.
+2017-07-13 21:18:09	-->	twitter_nawetimebomb (twitter_nawetimebomb@twitter) has joined &gtalk
+2017-07-13 21:18:09	--	Modo &gtalk [+v twitter_nawetimebomb] por localhost.localdomain
+2017-07-13 21:27:48	--	irc: desconectado del servidor

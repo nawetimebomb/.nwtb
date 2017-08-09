@@ -96,7 +96,7 @@ if-shell "uname -o | grep -q Android"\
 The windows list.
 
 #+BEGIN_SRC bash
-set -g window-status-current-format "#[bold]#[bg=colour31,fg=colour234] #I #W "
+set -g window-status-current-format "#[bold]#[bg=colour31,fg=colour234] ℵ #W "
 set -g window-status-format " #I #W "
 setw -g window-status-fg white
 #+END_SRC

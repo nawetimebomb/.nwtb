@@ -42,7 +42,7 @@ roundness = 1.0
 #+BEGIN_SRC bash
 [options]
 allow_bold = true
-audible_bell = false
+audible_bell = true
 clickable_url = true
 cursor_blink = on
 cursor_shape = block

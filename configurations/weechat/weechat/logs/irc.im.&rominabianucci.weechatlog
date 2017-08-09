@@ -1,0 +1,475 @@
+2017-07-13 23:04:45	-->	nawe (nawe@localhost.localdomain) has joined &RominaBianucci
+2017-07-13 23:04:45	--	Channel &RominaBianucci: 61 apodos (2 ops, 0 semi-ops, 4 voces, 55 normales)
+2017-07-13 23:04:56	@nawe	channel set
+2017-07-13 23:04:56	@root	account is empty
+2017-07-13 23:04:56	@root	auto_join = `false'
+2017-07-13 23:04:56	@root	fill_by = `all'
+2017-07-13 23:04:56	@root	group is empty
+2017-07-13 23:04:56	@root	protocol is empty
+2017-07-13 23:04:56	@root	show_users = `online+,special%,away'
+2017-07-13 23:04:56	@root	type = `control'
+2017-07-13 23:05:06	@nawe	channel set fill_by
+2017-07-13 23:05:06	@root	fill_by = `all'
+2017-07-13 23:05:11	@nawe	channel set fill_by account
+2017-07-13 23:05:11	<--	AgustinaVighetti (2bafv6i4axwv22osyv9bwolira@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	AldanaMelisaLaurito (1a5vwvxwzl0sz02yoedmfyffgp@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	AlejandroGamen (0o70z33k6nb1y2df69zqge1yu5@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	AndresPalumbo (2vywzfz5zir0y367eaoxxruzyb@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	AndresTroiano (35yngsj6pz0ao0v1hdvcngfm37@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	CarlosLopez (1cixq1zzy1sz12llfys7xmldun@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	CarlosLopez_ (2ilw7sdlnwm212ogl5g7ehc1bk@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	CarlosSocha (3uojogf2cc9kd2z12rbsgqvv6a@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	CristianHernandez (1wtvsgs4prl851btynvjec1u0m@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	DemianMoschin (32a98vb6o9s6a1ikj683yfvogb@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	DiegoOsores (2agqgz84vfo6g2fwwof861zcbr@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	EduardArmandoMartinezRam (37ft13sr90skt0ui4lyj9sxh7w@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	EricBielmann (1txjicc2yffwd3i1goh60xe9s7@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	EugeniaEspinosa (1k0krj01k8619056d7wchpgcqg@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	EzequielVonZiegler (3uccs0azrbfne14b0of3p9akl7@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	FacundoDraghi (0bcpjodfkc7043nfcnfaoaqcro@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	FacundoMila (0cmrb6uxafcpd1uh89vaneatf3@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	FacundoRolfo (2hx7261ymz8wf2qosa288svtln@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	FedericoTeiserskis (0ug8wzy92k8851uaowpdzjtsyj@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	FelipeBuitragoSanta (1eaqu4wjq0kc81lr4g5h88d9px@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	FernandoDiPietro (1vn7bit17m2gh3dz923ud2edhr@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	FernandoLunaBaratti (0xbwkswjfv0ck2nadky00g2148@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	FrancoRossi (0t1vf3ulggan433d3xi53v0q49@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	FrancoSili (39xs0zwsix0xk2a4z9hic5mv4c@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	FrankKalbermatten (3iytglfm7seuo1scgy4piepct5@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	GermanBurgardt (1o37byn938w8b08kk8dx2onve7@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	GermanRoman (287au40q4sbul36jwn9s9wme7n@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	GonzaloCadenas (3ruu6sab0al6j3oiwbojq7euy7@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	HernanFarruggia_ (21c03jt1hxyen1qmpp8mn7i23t@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	JavierCastillo (3bcsqwlnd541y18ztegowe213p@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	JorgeAndresRojasValencia (30h5s16vs8bqy3u9qkwh2aoqoy@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	JorgeEduardoBernalMahech (3dcse3ie7rmiz3qgu72pfibwje@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	JulioCesarDanni (3ngwe8pl047483hp8ugn5oauv0@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	LeandroPross (06tyvtmdeg5gb3h77t6l2wupyf@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	LeonardoUribeTorres (2xtlxwron2m5518qxua0zj0ftc@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	LucianaAcosta (2o6r293z5520o1jau7nsc2jvcx@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	LucianaZavaleta (01a44if6id3gw1sprmbvk3r4ga@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	ManuelValverde (2805ilqny5ft900h1o44idx5jq@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	MariaBelenPaluzzi (3h2uk2b5iwuac0ryc4cettj2h3@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	MarianoQuattrocchi (10z3w5kei5xwx2m95mbuygs0wg@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	MartinArielRodriguez (1g5jho41cgyrk1ybjblif28146@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	MartinKalaizich_ (3s90geq5p40dw2u67v5vbegi9q@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	MaximilianoCastro (34rq9g9h3nanc2in4gltpwawt5@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	MikeTaatgen (04lcrhipiex5z3rdvryoihbk4q@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	MisaelAndresMendezJuania (0iuuwh4c6id3r23meswcx2xq46@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	NestorIvanScoles (1fa7pn8ho0u2q2wskkq21xeypm@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	NicolasDelFiorentino_ (339fnbu39hwaw22y640k04mm7v@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	OlgaWilches (18p8dipkwf7k90j15pahxlg34s@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	OrnellaLanciotti (1ycr82gfenvof0tu6da764sv3t@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	PabloCalcagnino (2ukgdo7hggmht14rp0hs093xpg@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	PabloCannarsa (2esmcdu6r9v6h3auc6ci3irbk8@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	PaulinaNovillo (0lu3qjpuva1902weuvjd084m8l@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	PauloCastaneira (1yi43vfhyqig234co6sm80n3ao@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	RominaBianucci (0qmnw9e4gh3u80p92hmb0ekz3a@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	RominaMazzali (37w4llhoyyyez3gilgjy7fikow@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	SaulChait (2legslximgq9d0zdv5jkd1ahc3@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	SebastianAlarconRamos (2lfyna3tmhuq01t1ymfq8hicjj@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	TomasLingotti (3iu96219q487z0ebpcd51xxb25@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	<--	twitter_nawetimebomb (twitter_nawetimebomb@twitter) ha abandonado &RominaBianucci ()
+2017-07-13 23:05:11	@root	fill_by = `account'
+2017-07-13 23:05:23	@nawe	channel list
+2017-07-13 23:05:23	@root	 0. &bitlbee, control channel (joined)
+2017-07-13 23:05:23	@root	 1. &gtalk, control channel
+2017-07-13 23:05:23	@root	 2. &twitter, control channel
+2017-07-13 23:05:23	@root	 3. &globant, control channel
+2017-07-13 23:05:23	@root	 4. #twitter_nawetimebomb, chat channel (joined)
+2017-07-13 23:05:23	@root	 5. &RominaBianucci, control channel (joined)
+2017-07-13 23:05:23	@root	End of channel list
+2017-07-13 23:05:32	@nawe	help channel set
+2017-07-13 23:05:32	@root	Syntax: channel [<channel id>] set
+2017-07-13 23:05:32	@root	Syntax: channel [<channel id>] set <setting>
+2017-07-13 23:05:32	@root	Syntax: channel [<channel id>] set <setting> <value>
+2017-07-13 23:05:32	@root	Syntax: channel [<channel id>] set -del <setting>
+2017-07-13 23:05:32	@root	 
+2017-07-13 23:05:32	@root	This command can be used to change various settings for channels. Different channel types support different settings. You can see the settings available for a channel by typing channel <channel id> set.
+2017-07-13 23:05:32	@root	 
+2017-07-13 23:05:32	@root	For more information about a setting, see help set <setting>.
+2017-07-13 23:05:32	@root	 
+2017-07-13 23:05:32	@root	The channel ID can be a number (see channel list), or (part of) its name, as long as it matches only one channel. If you want to change settings of the current channel, you can omit the channel ID.
+2017-07-13 23:05:36	@nawe	help set
+2017-07-13 23:05:36	@root	Syntax: set
+2017-07-13 23:05:36	@root	Syntax: set <variable>
+2017-07-13 23:05:36	@root	Syntax: set <variable> <value>
+2017-07-13 23:05:36	@root	Syntax: set -del <variable>
+2017-07-13 23:05:36	@root	 
+2017-07-13 23:05:36	@root	Without any arguments, this command lists all the set variables. You can also specify a single argument, a variable name, to get that variable's value. To change this value, specify the new value as the second argument. With -del you can reset a setting to its default value.
+2017-07-13 23:05:36	@root	 
+2017-07-13 23:05:36	@root	To get more help information about a setting, try:
+2017-07-13 23:05:36	@root	 
+2017-07-13 23:05:36	@root	Example:
+2017-07-13 23:05:36	@root	<ctrlsoft> help set private
+2017-07-13 23:05:41	@nawe	set
+2017-07-13 23:05:41	@root	allow_takeover = `true'
+2017-07-13 23:05:41	@root	auto_connect = `true'
+2017-07-13 23:05:41	@root	auto_reconnect = `true'
+2017-07-13 23:05:41	@root	auto_reconnect_delay = `5*3<900'
+2017-07-13 23:05:41	@root	away_reply_timeout = `3600'
+2017-07-13 23:05:41	@root	charset = `utf-8'
+2017-07-13 23:05:41	@root	debug = `false'
+2017-07-13 23:05:41	@root	default_target = `root'
+2017-07-13 23:05:41	@root	display_namechanges = `false'
+2017-07-13 23:05:41	@root	display_timestamps = `true'
+2017-07-13 23:05:41	@root	handle_unknown = `add_channel'
+2017-07-13 23:05:41	@root	mobile_is_away = `false'
+2017-07-13 23:05:41	@root	nick_format = `%-@nick'
+2017-07-13 23:05:41	@root	nick_lowercase = `false'
+2017-07-13 23:05:41	@root	nick_underscores = `false'
+2017-07-13 23:05:41	@root	offline_user_quits = `true'
+2017-07-13 23:05:41	@root	ops = `both'
+2017-07-13 23:05:41	@root	otr_color_encrypted = `true'
+2017-07-13 23:05:41	@root	otr_does_html = `true'
+2017-07-13 23:05:41	@root	otr_policy = `opportunistic'
+2017-07-13 23:05:41	@root	password = `********' (hidden)
+2017-07-13 23:05:41	@root	paste_buffer = `false'
+2017-07-13 23:05:41	@root	paste_buffer_delay = `200'
+2017-07-13 23:05:41	@root	private = `true'
+2017-07-13 23:05:41	@root	query_order = `lifo'
+2017-07-13 23:05:41	@root	save_on_quit = `true'
+2017-07-13 23:05:41	@root	self_messages = `true'
+2017-07-13 23:05:41	@root	simulate_netsplit = `true'
+2017-07-13 23:05:41	@root	status is empty
+2017-07-13 23:05:41	@root	strip_html = `true'
+2017-07-13 23:05:41	@root	timezone = `local'
+2017-07-13 23:05:41	@root	to_char = `: '
+2017-07-13 23:05:41	@root	typing_notice = `false'
+2017-07-13 23:05:41	@root	utf8_nicks = `false'
+2017-07-13 23:05:57	@nawe	channel set
+2017-07-13 23:05:57	@root	account is empty
+2017-07-13 23:05:57	@root	auto_join = `false'
+2017-07-13 23:05:57	@root	fill_by = `account'
+2017-07-13 23:05:57	@root	group is empty
+2017-07-13 23:05:57	@root	protocol is empty
+2017-07-13 23:05:57	@root	show_users = `online+,special%,away'
+2017-07-13 23:05:57	@root	type = `control'
+2017-07-13 23:10:18	@nawe	channel set account 
+2017-07-13 23:10:18	@root	account is empty
+2017-07-13 23:10:22	@nawe	channel set account gtalk
+2017-07-13 23:10:22	-->	AgustinaVighetti (2bafv6i4axwv22osyv9bwolira@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	AldanaMelisaLaurito (1a5vwvxwzl0sz02yoedmfyffgp@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	AlejandroGamen (0o70z33k6nb1y2df69zqge1yu5@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	AndresPalumbo (2vywzfz5zir0y367eaoxxruzyb@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	AndresTroiano (35yngsj6pz0ao0v1hdvcngfm37@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	--	Modo &RominaBianucci [+v AndresTroiano] por localhost.localdomain
+2017-07-13 23:10:22	-->	CarlosLopez (1cixq1zzy1sz12llfys7xmldun@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	CarlosLopez_ (2ilw7sdlnwm212ogl5g7ehc1bk@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	CarlosSocha (3uojogf2cc9kd2z12rbsgqvv6a@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	CristianHernandez (1wtvsgs4prl851btynvjec1u0m@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	DemianMoschin (32a98vb6o9s6a1ikj683yfvogb@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	DiegoOsores (2agqgz84vfo6g2fwwof861zcbr@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	EduardArmandoMartinezRam (37ft13sr90skt0ui4lyj9sxh7w@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	EricBielmann (1txjicc2yffwd3i1goh60xe9s7@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	EzequielVonZiegler (3uccs0azrbfne14b0of3p9akl7@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FacundoDraghi (0bcpjodfkc7043nfcnfaoaqcro@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FacundoMila (0cmrb6uxafcpd1uh89vaneatf3@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FacundoRolfo (2hx7261ymz8wf2qosa288svtln@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FedericoTeiserskis (0ug8wzy92k8851uaowpdzjtsyj@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FelipeBuitragoSanta (1eaqu4wjq0kc81lr4g5h88d9px@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FernandoDiPietro (1vn7bit17m2gh3dz923ud2edhr@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FernandoLunaBaratti (0xbwkswjfv0ck2nadky00g2148@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FernandoWirsch (1kh5r6mq46nc53lxw6aby5unwc@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FrancoRossi (0t1vf3ulggan433d3xi53v0q49@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FrancoSili (39xs0zwsix0xk2a4z9hic5mv4c@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	FrankKalbermatten (3iytglfm7seuo1scgy4piepct5@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	GermanBurgardt (1o37byn938w8b08kk8dx2onve7@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	GermanRoman (287au40q4sbul36jwn9s9wme7n@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	GonzaloCadenas (3ruu6sab0al6j3oiwbojq7euy7@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	HernanFarruggia_ (21c03jt1hxyen1qmpp8mn7i23t@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	JavierCastillo (3bcsqwlnd541y18ztegowe213p@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	JorgeAndresRojasValencia (30h5s16vs8bqy3u9qkwh2aoqoy@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	JorgeEduardoBernalMahech (3dcse3ie7rmiz3qgu72pfibwje@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	JulioCesarDanni (3ngwe8pl047483hp8ugn5oauv0@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	LeandroPross (06tyvtmdeg5gb3h77t6l2wupyf@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	--	Modo &RominaBianucci [+v LeandroPross] por localhost.localdomain
+2017-07-13 23:10:22	-->	LeonardoUribeTorres (2xtlxwron2m5518qxua0zj0ftc@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	LucianaAcosta (2o6r293z5520o1jau7nsc2jvcx@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	LucianaZavaleta (01a44if6id3gw1sprmbvk3r4ga@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	ManuelValverde (2805ilqny5ft900h1o44idx5jq@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	MariaBelenPaluzzi (3h2uk2b5iwuac0ryc4cettj2h3@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	MarianoQuattrocchi (10z3w5kei5xwx2m95mbuygs0wg@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	MartinArielRodriguez (1g5jho41cgyrk1ybjblif28146@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	MartinKalaizich_ (3s90geq5p40dw2u67v5vbegi9q@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	MaximilianoCastro (34rq9g9h3nanc2in4gltpwawt5@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	MikeTaatgen (04lcrhipiex5z3rdvryoihbk4q@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	--	Modo &RominaBianucci [+v MikeTaatgen] por localhost.localdomain
+2017-07-13 23:10:22	-->	MisaelAndresMendezJuania (0iuuwh4c6id3r23meswcx2xq46@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	NestorIvanScoles (1fa7pn8ho0u2q2wskkq21xeypm@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	NicolasDelFiorentino_ (339fnbu39hwaw22y640k04mm7v@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	OlgaWilches (18p8dipkwf7k90j15pahxlg34s@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	OrnellaLanciotti (1ycr82gfenvof0tu6da764sv3t@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	PabloCalcagnino (2ukgdo7hggmht14rp0hs093xpg@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	PabloCannarsa (2esmcdu6r9v6h3auc6ci3irbk8@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	PaulinaNovillo (0lu3qjpuva1902weuvjd084m8l@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	PauloCastaneira (1yi43vfhyqig234co6sm80n3ao@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	RominaBianucci (0qmnw9e4gh3u80p92hmb0ekz3a@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	RominaMazzali (37w4llhoyyyez3gilgjy7fikow@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	SaulChait (2legslximgq9d0zdv5jkd1ahc3@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	SebastianAlarconRamos (2lfyna3tmhuq01t1ymfq8hicjj@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	-->	TomasLingotti (3iu96219q487z0ebpcd51xxb25@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:10:22	@root	account = `gtalk'
+2017-07-13 23:10:34	@nawe	channel set fill_by protoocl
+2017-07-13 23:10:34	@root	fill_by = `account'
+2017-07-13 23:10:36	@nawe	channel set fill_by protocol
+2017-07-13 23:10:36	<--	AgustinaVighetti (2bafv6i4axwv22osyv9bwolira@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	AldanaMelisaLaurito (1a5vwvxwzl0sz02yoedmfyffgp@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	AlejandroGamen (0o70z33k6nb1y2df69zqge1yu5@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	AndresPalumbo (2vywzfz5zir0y367eaoxxruzyb@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	AndresTroiano (35yngsj6pz0ao0v1hdvcngfm37@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	CarlosLopez (1cixq1zzy1sz12llfys7xmldun@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	CarlosLopez_ (2ilw7sdlnwm212ogl5g7ehc1bk@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	CarlosSocha (3uojogf2cc9kd2z12rbsgqvv6a@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	CristianHernandez (1wtvsgs4prl851btynvjec1u0m@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	DemianMoschin (32a98vb6o9s6a1ikj683yfvogb@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	DiegoOsores (2agqgz84vfo6g2fwwof861zcbr@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	EduardArmandoMartinezRam (37ft13sr90skt0ui4lyj9sxh7w@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	EricBielmann (1txjicc2yffwd3i1goh60xe9s7@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	EzequielVonZiegler (3uccs0azrbfne14b0of3p9akl7@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FacundoDraghi (0bcpjodfkc7043nfcnfaoaqcro@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FacundoMila (0cmrb6uxafcpd1uh89vaneatf3@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FacundoRolfo (2hx7261ymz8wf2qosa288svtln@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FedericoTeiserskis (0ug8wzy92k8851uaowpdzjtsyj@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FelipeBuitragoSanta (1eaqu4wjq0kc81lr4g5h88d9px@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FernandoDiPietro (1vn7bit17m2gh3dz923ud2edhr@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FernandoLunaBaratti (0xbwkswjfv0ck2nadky00g2148@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FernandoWirsch (1kh5r6mq46nc53lxw6aby5unwc@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FrancoRossi (0t1vf3ulggan433d3xi53v0q49@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FrancoSili (39xs0zwsix0xk2a4z9hic5mv4c@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	FrankKalbermatten (3iytglfm7seuo1scgy4piepct5@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	GermanBurgardt (1o37byn938w8b08kk8dx2onve7@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	GermanRoman (287au40q4sbul36jwn9s9wme7n@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	GonzaloCadenas (3ruu6sab0al6j3oiwbojq7euy7@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	HernanFarruggia_ (21c03jt1hxyen1qmpp8mn7i23t@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	JavierCastillo (3bcsqwlnd541y18ztegowe213p@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	JorgeAndresRojasValencia (30h5s16vs8bqy3u9qkwh2aoqoy@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	JorgeEduardoBernalMahech (3dcse3ie7rmiz3qgu72pfibwje@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	JulioCesarDanni (3ngwe8pl047483hp8ugn5oauv0@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	LeandroPross (06tyvtmdeg5gb3h77t6l2wupyf@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	LeonardoUribeTorres (2xtlxwron2m5518qxua0zj0ftc@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	LucianaAcosta (2o6r293z5520o1jau7nsc2jvcx@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	LucianaZavaleta (01a44if6id3gw1sprmbvk3r4ga@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	ManuelValverde (2805ilqny5ft900h1o44idx5jq@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	MariaBelenPaluzzi (3h2uk2b5iwuac0ryc4cettj2h3@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	MarianoQuattrocchi (10z3w5kei5xwx2m95mbuygs0wg@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	MartinArielRodriguez (1g5jho41cgyrk1ybjblif28146@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	MartinKalaizich_ (3s90geq5p40dw2u67v5vbegi9q@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	MaximilianoCastro (34rq9g9h3nanc2in4gltpwawt5@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	MikeTaatgen (04lcrhipiex5z3rdvryoihbk4q@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	MisaelAndresMendezJuania (0iuuwh4c6id3r23meswcx2xq46@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	NestorIvanScoles (1fa7pn8ho0u2q2wskkq21xeypm@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	NicolasDelFiorentino_ (339fnbu39hwaw22y640k04mm7v@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	OlgaWilches (18p8dipkwf7k90j15pahxlg34s@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	OrnellaLanciotti (1ycr82gfenvof0tu6da764sv3t@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	PabloCalcagnino (2ukgdo7hggmht14rp0hs093xpg@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	PabloCannarsa (2esmcdu6r9v6h3auc6ci3irbk8@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	PaulinaNovillo (0lu3qjpuva1902weuvjd084m8l@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	PauloCastaneira (1yi43vfhyqig234co6sm80n3ao@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	RominaBianucci (0qmnw9e4gh3u80p92hmb0ekz3a@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	RominaMazzali (37w4llhoyyyez3gilgjy7fikow@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	SaulChait (2legslximgq9d0zdv5jkd1ahc3@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	SebastianAlarconRamos (2lfyna3tmhuq01t1ymfq8hicjj@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	<--	TomasLingotti (3iu96219q487z0ebpcd51xxb25@public.talk.google.com) ha abandonado &RominaBianucci ()
+2017-07-13 23:10:36	@root	fill_by = `protocol'
+2017-07-13 23:10:41	@nawe	channel set fill_by
+2017-07-13 23:10:41	@root	fill_by = `protocol'
+2017-07-13 23:10:44	@nawe	channel set 
+2017-07-13 23:10:44	@root	account = `gtalk'
+2017-07-13 23:10:44	@root	auto_join = `false'
+2017-07-13 23:10:44	@root	fill_by = `protocol'
+2017-07-13 23:10:44	@root	group is empty
+2017-07-13 23:10:44	@root	protocol is empty
+2017-07-13 23:10:44	@root	show_users = `online+,special%,away'
+2017-07-13 23:10:44	@root	type = `control'
+2017-07-13 23:10:49	@nawe	channel set group
+2017-07-13 23:10:49	@root	group is empty
+2017-07-13 23:10:57	@nawe	channel set fill_by group
+2017-07-13 23:10:57	-->	twitter_nawetimebomb (twitter_nawetimebomb@twitter) has joined &RominaBianucci
+2017-07-13 23:10:57	--	Modo &RominaBianucci [+v twitter_nawetimebomb] por localhost.localdomain
+2017-07-13 23:10:57	@root	fill_by = `group'
+2017-07-13 23:15:43	@nawe	chat add 1 
+2017-07-13 23:15:43	@root	Not enough parameters given (need 3).
+2017-07-13 23:16:11	@nawe	channel set fill_by gtalk
+2017-07-13 23:16:11	@root	fill_by = `group'
+2017-07-13 23:16:26	@nawe	channel set fill_by account
+2017-07-13 23:16:26	-->	AgustinaVighetti (2bafv6i4axwv22osyv9bwolira@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	AldanaMelisaLaurito (1a5vwvxwzl0sz02yoedmfyffgp@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	AlejandroGamen (0o70z33k6nb1y2df69zqge1yu5@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	AndresPalumbo (2vywzfz5zir0y367eaoxxruzyb@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	AndresTroiano (35yngsj6pz0ao0v1hdvcngfm37@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	--	Modo &RominaBianucci [+v AndresTroiano] por localhost.localdomain
+2017-07-13 23:16:26	-->	CarlosLopez (1cixq1zzy1sz12llfys7xmldun@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	--	Modo &RominaBianucci [+v CarlosLopez] por localhost.localdomain
+2017-07-13 23:16:26	-->	CarlosLopez_ (2ilw7sdlnwm212ogl5g7ehc1bk@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	CarlosSocha (3uojogf2cc9kd2z12rbsgqvv6a@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	CristianHernandez (1wtvsgs4prl851btynvjec1u0m@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	DemianMoschin (32a98vb6o9s6a1ikj683yfvogb@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	DiegoOsores (2agqgz84vfo6g2fwwof861zcbr@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	EduardArmandoMartinezRam (37ft13sr90skt0ui4lyj9sxh7w@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	EricBielmann (1txjicc2yffwd3i1goh60xe9s7@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	EzequielVonZiegler (3uccs0azrbfne14b0of3p9akl7@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FacundoDraghi (0bcpjodfkc7043nfcnfaoaqcro@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FacundoMila (0cmrb6uxafcpd1uh89vaneatf3@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FacundoRolfo (2hx7261ymz8wf2qosa288svtln@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FedericoTeiserskis (0ug8wzy92k8851uaowpdzjtsyj@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FelipeBuitragoSanta (1eaqu4wjq0kc81lr4g5h88d9px@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FernandoDiPietro (1vn7bit17m2gh3dz923ud2edhr@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FernandoLunaBaratti (0xbwkswjfv0ck2nadky00g2148@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FernandoWirsch (1kh5r6mq46nc53lxw6aby5unwc@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FrancoRossi (0t1vf3ulggan433d3xi53v0q49@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FrancoSili (39xs0zwsix0xk2a4z9hic5mv4c@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	FrankKalbermatten (3iytglfm7seuo1scgy4piepct5@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	GermanBurgardt (1o37byn938w8b08kk8dx2onve7@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	GermanRoman (287au40q4sbul36jwn9s9wme7n@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	GonzaloCadenas (3ruu6sab0al6j3oiwbojq7euy7@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	HernanFarruggia_ (21c03jt1hxyen1qmpp8mn7i23t@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	JavierCastillo (3bcsqwlnd541y18ztegowe213p@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	JorgeAndresRojasValencia (30h5s16vs8bqy3u9qkwh2aoqoy@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	JorgeEduardoBernalMahech (3dcse3ie7rmiz3qgu72pfibwje@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	JulioCesarDanni (3ngwe8pl047483hp8ugn5oauv0@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	LeandroPross (06tyvtmdeg5gb3h77t6l2wupyf@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	--	Modo &RominaBianucci [+v LeandroPross] por localhost.localdomain
+2017-07-13 23:16:26	-->	LeonardoUribeTorres (2xtlxwron2m5518qxua0zj0ftc@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	LucianaAcosta (2o6r293z5520o1jau7nsc2jvcx@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	LucianaZavaleta (01a44if6id3gw1sprmbvk3r4ga@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	ManuelValverde (2805ilqny5ft900h1o44idx5jq@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	MariaBelenPaluzzi (3h2uk2b5iwuac0ryc4cettj2h3@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	MarianoQuattrocchi (10z3w5kei5xwx2m95mbuygs0wg@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	MartinArielRodriguez (1g5jho41cgyrk1ybjblif28146@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	MartinKalaizich_ (3s90geq5p40dw2u67v5vbegi9q@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	MaximilianoCastro (34rq9g9h3nanc2in4gltpwawt5@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	MikeTaatgen (04lcrhipiex5z3rdvryoihbk4q@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	--	Modo &RominaBianucci [+v MikeTaatgen] por localhost.localdomain
+2017-07-13 23:16:26	-->	MisaelAndresMendezJuania (0iuuwh4c6id3r23meswcx2xq46@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	NestorIvanScoles (1fa7pn8ho0u2q2wskkq21xeypm@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	NicolasDelFiorentino_ (339fnbu39hwaw22y640k04mm7v@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	OlgaWilches (18p8dipkwf7k90j15pahxlg34s@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	OrnellaLanciotti (1ycr82gfenvof0tu6da764sv3t@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	PabloCalcagnino (2ukgdo7hggmht14rp0hs093xpg@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	PabloCannarsa (2esmcdu6r9v6h3auc6ci3irbk8@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	PaulinaNovillo (0lu3qjpuva1902weuvjd084m8l@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	PauloCastaneira (1yi43vfhyqig234co6sm80n3ao@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	RominaBianucci (0qmnw9e4gh3u80p92hmb0ekz3a@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	RominaMazzali (37w4llhoyyyez3gilgjy7fikow@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	SaulChait (2legslximgq9d0zdv5jkd1ahc3@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	SebastianAlarconRamos (2lfyna3tmhuq01t1ymfq8hicjj@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	-->	TomasLingotti (3iu96219q487z0ebpcd51xxb25@public.talk.google.com) has joined &RominaBianucci
+2017-07-13 23:16:26	<--	twitter_nawetimebomb (twitter_nawetimebomb@twitter) ha abandonado &RominaBianucci ()
+2017-07-13 23:16:26	@root	fill_by = `account'
+2017-07-13 23:16:33	@nawe	chat add 1 RominaBianucci 
+2017-07-13 23:16:33	@root	Could not add chatroom.
+2017-07-13 23:16:44	@nawe	chat with RominaBianucci 
+2017-07-13 23:16:44	@root	(Possible) failure while trying to open a groupchat with RominaBianucci.
+2017-07-13 23:16:46	<--	CarlosLopez (1cixq1zzy1sz12llfys7xmldun@public.talk.google.com) ha salido (Leaving...)
+2017-07-13 23:25:14	@nawe	acc off
+2017-07-13 23:25:14	@root	Deactivating all active (re)connections...
+2017-07-13 23:25:14	@root	twitter - Signing off..
+2017-07-13 23:25:14	@root	jabber - Signing off..
+2017-07-13 23:25:14	<--	GonzaloCadenas (3ruu6sab0al6j3oiwbojq7euy7@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	JavierCastillo (3bcsqwlnd541y18ztegowe213p@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	PabloCalcagnino (2ukgdo7hggmht14rp0hs093xpg@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	CarlosLopez_ (2ilw7sdlnwm212ogl5g7ehc1bk@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	AlejandroGamen (0o70z33k6nb1y2df69zqge1yu5@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	CarlosSocha (3uojogf2cc9kd2z12rbsgqvv6a@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	EzequielVonZiegler (3uccs0azrbfne14b0of3p9akl7@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	MartinKalaizich_ (3s90geq5p40dw2u67v5vbegi9q@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	JulioCesarDanni (3ngwe8pl047483hp8ugn5oauv0@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	MariaBelenPaluzzi (3h2uk2b5iwuac0ryc4cettj2h3@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	JorgeEduardoBernalMahech (3dcse3ie7rmiz3qgu72pfibwje@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FrancoSili (39xs0zwsix0xk2a4z9hic5mv4c@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	EduardArmandoMartinezRam (37ft13sr90skt0ui4lyj9sxh7w@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	NicolasDelFiorentino_ (339fnbu39hwaw22y640k04mm7v@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	DemianMoschin (32a98vb6o9s6a1ikj683yfvogb@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	JorgeAndresRojasValencia (30h5s16vs8bqy3u9qkwh2aoqoy@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	AndresPalumbo (2vywzfz5zir0y367eaoxxruzyb@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	LucianaAcosta (2o6r293z5520o1jau7nsc2jvcx@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	SebastianAlarconRamos (2lfyna3tmhuq01t1ymfq8hicjj@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	SaulChait (2legslximgq9d0zdv5jkd1ahc3@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FacundoRolfo (2hx7261ymz8wf2qosa288svtln@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	PabloCannarsa (2esmcdu6r9v6h3auc6ci3irbk8@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	AgustinaVighetti (2bafv6i4axwv22osyv9bwolira@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	DiegoOsores (2agqgz84vfo6g2fwwof861zcbr@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	GermanRoman (287au40q4sbul36jwn9s9wme7n@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	ManuelValverde (2805ilqny5ft900h1o44idx5jq@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	HernanFarruggia_ (21c03jt1hxyen1qmpp8mn7i23t@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	PauloCastaneira (1yi43vfhyqig234co6sm80n3ao@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FernandoDiPietro (1vn7bit17m2gh3dz923ud2edhr@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	EricBielmann (1txjicc2yffwd3i1goh60xe9s7@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	GermanBurgardt (1o37byn938w8b08kk8dx2onve7@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FernandoWirsch (1kh5r6mq46nc53lxw6aby5unwc@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	MartinArielRodriguez (1g5jho41cgyrk1ybjblif28146@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	NestorIvanScoles (1fa7pn8ho0u2q2wskkq21xeypm@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FelipeBuitragoSanta (1eaqu4wjq0kc81lr4g5h88d9px@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	AldanaMelisaLaurito (1a5vwvxwzl0sz02yoedmfyffgp@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	OlgaWilches (18p8dipkwf7k90j15pahxlg34s@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	MarianoQuattrocchi (10z3w5kei5xwx2m95mbuygs0wg@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FedericoTeiserskis (0ug8wzy92k8851uaowpdzjtsyj@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FrancoRossi (0t1vf3ulggan433d3xi53v0q49@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	PaulinaNovillo (0lu3qjpuva1902weuvjd084m8l@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	MisaelAndresMendezJuania (0iuuwh4c6id3r23meswcx2xq46@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FacundoMila (0cmrb6uxafcpd1uh89vaneatf3@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FacundoDraghi (0bcpjodfkc7043nfcnfaoaqcro@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	LeandroPross (06tyvtmdeg5gb3h77t6l2wupyf@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	MikeTaatgen (04lcrhipiex5z3rdvryoihbk4q@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	LucianaZavaleta (01a44if6id3gw1sprmbvk3r4ga@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	TomasLingotti (3iu96219q487z0ebpcd51xxb25@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	LeonardoUribeTorres (2xtlxwron2m5518qxua0zj0ftc@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	AndresTroiano (35yngsj6pz0ao0v1hdvcngfm37@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	MaximilianoCastro (34rq9g9h3nanc2in4gltpwawt5@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FernandoLunaBaratti (0xbwkswjfv0ck2nadky00g2148@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	CristianHernandez (1wtvsgs4prl851btynvjec1u0m@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	RominaMazzali (37w4llhoyyyez3gilgjy7fikow@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	OrnellaLanciotti (1ycr82gfenvof0tu6da764sv3t@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	FrankKalbermatten (3iytglfm7seuo1scgy4piepct5@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:14	<--	RominaBianucci (0qmnw9e4gh3u80p92hmb0ekz3a@public.talk.google.com) ha salido (localhost.localdomain globant.com)
+2017-07-13 23:25:18	@nawe	acc list
+2017-07-13 23:25:18	@root	 0 (twitter): twitter, nawetimebomb
+2017-07-13 23:25:18	@root	 1 (gtalk): jabber, nahuel.sacchetti@globant.com
+2017-07-13 23:25:18	@root	End of account list
+2017-07-13 23:25:23	@nawe	acc 1 del
+2017-07-13 23:25:23	@root	Account deleted
+2017-07-13 23:25:25	@nawe	plugins
+2017-07-13 23:25:25	@root	Plugin                          Version
+2017-07-13 23:25:25	@root	bonjour                         2.12.0
+2017-07-13 23:25:25	@root	gg                              2.12.0
+2017-07-13 23:25:25	@root	hangouts                        0.1
+2017-07-13 23:25:25	@root	icq                             2.12.0
+2017-07-13 23:25:25	@root	irc                             2.12.0
+2017-07-13 23:25:25	@root	jabber                          2.12.0
+2017-07-13 23:25:25	@root	napster                         2.7.0
+2017-07-13 23:25:25	@root	novell                          2.12.0
+2017-07-13 23:25:25	@root	oscar                           2.12.0
+2017-07-13 23:25:25	@root	otr                             3.5.1
+2017-07-13 23:25:25	@root	simple                          2.12.0
+2017-07-13 23:25:25	@root	skype                           3.5.1
+2017-07-13 23:25:25	@root	snpp                            2.7.0
+2017-07-13 23:25:25	@root	zephyr                          2.12.0
+2017-07-13 23:25:25	@root	 
+2017-07-13 23:25:25	@root	Enabled Protocols: aim, bonjour, gg, hangouts, icq, identica, irc, jabber, napster, novell, oscar, simple, skype, snpp, twitter, zephyr
+2017-07-13 23:25:38	@nawe	acc add hangouts nahuel.sacchetti@globant.com
+2017-07-13 23:25:38	@root	Account successfully added with tag hangouts
+2017-07-13 23:26:14	@nawe	acc list
+2017-07-13 23:26:14	@root	 0 (twitter): twitter, nawetimebomb
+2017-07-13 23:26:14	@root	 1 (hangouts): hangouts, nahuel.sacchetti@globant.com
+2017-07-13 23:26:14	@root	End of account list
+2017-07-13 23:26:17	@nawe	acc 1 on
+2017-07-13 23:26:25	@nawe	account 1 
+2017-07-13 23:26:25	@root	Not enough parameters given (need 2).
+2017-07-13 23:26:27	@nawe	account 1 on
+2017-07-13 23:26:27	@root	Account already online
+2017-07-13 23:28:17	@root	hangouts - Login error: Connection timeout
+2017-07-13 23:28:17	@root	hangouts - Logging in: Signing off..
+2017-07-13 23:28:17	@root	hangouts - Logging in: Reconnecting in 5 seconds..
+2017-07-13 23:30:22	@root	hangouts - Login error: Connection timeout
+2017-07-13 23:30:22	@root	hangouts - Logging in: Signing off..
+2017-07-13 23:30:22	@root	hangouts - Logging in: Reconnecting in 15 seconds..
+2017-07-13 23:32:37	@root	hangouts - Login error: Connection timeout
+2017-07-13 23:32:37	@root	hangouts - Logging in: Signing off..
+2017-07-13 23:32:37	@root	hangouts - Logging in: Reconnecting in 45 seconds..
+2017-07-13 23:35:22	@root	hangouts - Login error: Connection timeout
+2017-07-13 23:35:22	@root	hangouts - Logging in: Signing off..
+2017-07-13 23:35:22	@root	hangouts - Logging in: Reconnecting in 135 seconds..
+2017-07-13 23:39:37	@root	hangouts - Login error: Connection timeout
+2017-07-13 23:39:37	@root	hangouts - Logging in: Signing off..
+2017-07-13 23:39:37	@root	hangouts - Logging in: Reconnecting in 405 seconds..

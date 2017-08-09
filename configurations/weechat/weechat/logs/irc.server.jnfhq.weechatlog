@@ -1,0 +1,80 @@
+2017-07-26 21:09:34	--	irc: conectando al servidor jnfhq.irc.slack.com/6667...
+2017-07-26 21:09:34	--	irc: conectado a jnfhq.irc.slack.com/6667 (52.71.207.146)
+2017-07-26 21:09:34	--	CTCP solicitado por slackbot: VERSION
+2017-07-26 21:09:34	--	respuesta CTCP a slackbot: VERSION WeeChat 1.9 (Jun 26 2017)
+2017-07-26 21:09:34	--	IRC-SLACK gateway
+2017-07-26 21:09:34	--	no password!!!
+2017-07-26 21:09:34	=!=	irc: leyendo datos del socket: error 2 (conexión cerrara por un par)
+2017-07-26 21:09:34	--	irc: desconectado del servidor...
+2017-07-26 21:09:34	--	irc: desconectado del servidor
+2017-07-26 21:09:34	--	irc: reconectando al servidor en 10 segundos
+2017-07-26 21:09:44	--	irc: reconectando al servidor...
+2017-07-26 21:09:44	--	irc: conectando al servidor jnfhq.irc.slack.com/6667...
+2017-07-26 21:09:44	--	irc: conectado a jnfhq.irc.slack.com/6667 (52.72.52.186)
+2017-07-26 21:09:44	--	CTCP solicitado por slackbot: VERSION
+2017-07-26 21:09:44	--	respuesta CTCP a slackbot: VERSION WeeChat 1.9 (Jun 26 2017)
+2017-07-26 21:09:44	--	IRC-SLACK gateway
+2017-07-26 21:09:44	--	no password!!!
+2017-07-26 21:09:45	=!=	irc: leyendo datos del socket: error 2 (conexión cerrara por un par)
+2017-07-26 21:09:45	--	irc: desconectado del servidor...
+2017-07-26 21:09:45	--	irc: desconectado del servidor
+2017-07-26 21:09:45	--	irc: reconectando al servidor en 20 segundos
+2017-07-26 21:10:05	--	irc: reconectando al servidor...
+2017-07-26 21:10:05	--	irc: conectando al servidor jnfhq.irc.slack.com/6667...
+2017-07-26 21:10:05	--	irc: conectado a jnfhq.irc.slack.com/6667 (52.6.66.3)
+2017-07-26 21:10:05	--	CTCP solicitado por slackbot: VERSION
+2017-07-26 21:10:05	--	respuesta CTCP a slackbot: VERSION WeeChat 1.9 (Jun 26 2017)
+2017-07-26 21:10:05	--	IRC-SLACK gateway
+2017-07-26 21:10:06	--	no password!!!
+2017-07-26 21:10:06	=!=	irc: leyendo datos del socket: error 2 (conexión cerrara por un par)
+2017-07-26 21:10:06	--	irc: desconectado del servidor...
+2017-07-26 21:10:06	--	irc: desconectado del servidor
+2017-07-26 21:10:06	--	irc: reconectando al servidor en 40 segundos
+2017-07-26 21:10:06		irc: autoreconexión cancelada
+2017-07-26 21:10:06	--	irc: desconectado del servidor
+2017-07-26 21:10:10	--	irc: conectando al servidor jnfhq.irc.slack.com/6667...
+2017-07-26 21:10:10	--	irc: conectado a jnfhq.irc.slack.com/6667 (52.6.66.3)
+2017-07-26 21:10:10	--	CTCP solicitado por slackbot: VERSION
+2017-07-26 21:10:10	--	respuesta CTCP a slackbot: VERSION WeeChat 1.9 (Jun 26 2017)
+2017-07-26 21:10:10	--	IRC-SLACK gateway
+2017-07-26 21:10:10	--	no password!!!
+2017-07-26 21:10:10	=!=	irc: leyendo datos del socket: error 2 (conexión cerrara por un par)
+2017-07-26 21:10:10	--	irc: desconectado del servidor...
+2017-07-26 21:10:10	--	irc: desconectado del servidor
+2017-07-26 21:10:10	--	irc: reconectando al servidor en 10 segundos
+2017-07-26 21:10:15		irc: autoreconexión cancelada
+2017-07-26 21:10:15	--	irc: desconectado del servidor
+2017-07-26 21:11:02	--	irc: conectando al servidor jnfhq.irc.slack.com/6667...
+2017-07-26 21:11:02	--	irc: conectado a jnfhq.irc.slack.com/6667 (52.71.207.146)
+2017-07-26 21:11:03	--	CTCP solicitado por slackbot: VERSION
+2017-07-26 21:11:03	--	respuesta CTCP a slackbot: VERSION WeeChat 1.9 (Jun 26 2017)
+2017-07-26 21:11:03	--	IRC-SLACK gateway
+2017-07-26 21:11:03	--	no password!!!
+2017-07-26 21:11:03	=!=	irc: leyendo datos del socket: error 2 (conexión cerrara por un par)
+2017-07-26 21:11:03	--	irc: desconectado del servidor...
+2017-07-26 21:11:03	--	irc: desconectado del servidor
+2017-07-26 21:11:03	--	irc: reconectando al servidor en 10 segundos
+2017-07-26 21:11:13	--	irc: reconectando al servidor...
+2017-07-26 21:11:13	--	irc: conectando al servidor jnfhq.irc.slack.com/6667...
+2017-07-26 21:11:13	--	irc: conectado a jnfhq.irc.slack.com/6667 (52.72.52.186)
+2017-07-26 21:11:13	--	CTCP solicitado por slackbot: VERSION
+2017-07-26 21:11:13	--	respuesta CTCP a slackbot: VERSION WeeChat 1.9 (Jun 26 2017)
+2017-07-26 21:11:13	--	IRC-SLACK gateway
+2017-07-26 21:11:14	--	no password!!!
+2017-07-26 21:11:14	=!=	irc: leyendo datos del socket: error 2 (conexión cerrara por un par)
+2017-07-26 21:11:14	--	irc: desconectado del servidor...
+2017-07-26 21:11:14	--	irc: desconectado del servidor
+2017-07-26 21:11:14	--	irc: reconectando al servidor en 20 segundos
+2017-07-26 21:11:34	--	irc: reconectando al servidor...
+2017-07-26 21:11:34	--	irc: conectando al servidor jnfhq.irc.slack.com/6667...
+2017-07-26 21:11:34	--	irc: conectado a jnfhq.irc.slack.com/6667 (52.72.199.169)
+2017-07-26 21:11:34	--	CTCP solicitado por slackbot: VERSION
+2017-07-26 21:11:34	--	respuesta CTCP a slackbot: VERSION WeeChat 1.9 (Jun 26 2017)
+2017-07-26 21:11:34	--	IRC-SLACK gateway
+2017-07-26 21:11:35	--	no password!!!
+2017-07-26 21:11:35	=!=	irc: leyendo datos del socket: error 2 (conexión cerrara por un par)
+2017-07-26 21:11:35	--	irc: desconectado del servidor...
+2017-07-26 21:11:35	--	irc: desconectado del servidor
+2017-07-26 21:11:35	--	irc: reconectando al servidor en 40 segundos
+2017-07-26 21:12:14		irc: autoreconexión cancelada
+2017-07-26 21:12:14	--	irc: desconectado del servidor
