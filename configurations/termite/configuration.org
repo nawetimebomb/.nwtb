@@ -39,7 +39,7 @@ roundness = 1.0
 
 * Options
 
-#+BEGIN_SRC  bash
+#+BEGIN_SRC bash
 [options]
 allow_bold = true
 audible_bell = false
@@ -48,7 +48,7 @@ cursor_blink = on
 cursor_shape = block
 dynamic_title = true
 filter_unmatched_urls = true
-font = Monospace 9
+font = DejaVu Sans Mono 9
 mouse_autohide = true
 scroll_on_keystroke = true
 scroll_on_output = false
@@ -66,7 +66,7 @@ Also =Termite= supports true color but I don't really care about that.
 
 #+BEGIN_SRC bash
 [colors]
-background = #3f3f3f
+background = #2b2b2b
 foreground = #dcdccc
 foreground_bold = #ffffff
 

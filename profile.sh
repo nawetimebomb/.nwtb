@@ -7,6 +7,8 @@
 
 # VARIABLES
 ALEPH_ICON=$'\u2135' # א
+COLOR=$(tput setaf 31)
+RESET_COLOR=$(tput sgr0)
 
 # CONFIGURATION VARIABLES
 export NWTB=$HOME/.nwtb
@@ -25,7 +27,7 @@ alias reload-tmux="sh $NWTB/build-org-files.sh --tmux && tmux source-file $HOME/
 # ENV VARIABLES
 export EDITOR="emacsclient -t"
 export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin
-export PS1=" \[\033[0;92m\]\W ${ALEPH_ICON} \[\033[0;m\] "
+export PS1=" ${COLOR}\W ${ALEPH_ICON}  ${RESET_COLOR}"
 export TERMINAL="termite"
 export SECRETS="$HOME/.elnawe.secrets/"
 

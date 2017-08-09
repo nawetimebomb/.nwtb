@@ -47,8 +47,8 @@ Specially because I like to keep it personal.
 When Tmux want to says something...
 
 #+BEGIN_SRC bash
-set -g message-bg green
-set -g message-fg black
+set -g message-bg colour31
+set -g message-fg colour234
 #+END_SRC
 
 ** Mode
@@ -66,9 +66,9 @@ Panes are splitted windows.
 
 #+BEGIN_SRC bash
 set -g pane-border-fg white
-set -g pane-border-bg brightblack
-set -g pane-active-border-fg green
-set -g pane-active-border-bg brightblack
+set -g pane-border-bg black
+set -g pane-active-border-fg colour31
+set -g pane-active-border-bg black
 #+END_SRC
 
 ** Status Bar
@@ -77,18 +77,18 @@ A nice-looking status bar with great information, because I mostly use
 Terminal.
 
 #+BEGIN_SRC bash
-set -g status-bg brightblack
+set -g status-bg colour234
 set -g status-fg white
 set -g status-left ""
 set -g status-position top
-set -g status-right "#[bold] #{pane_current_path}\
-    #[default,fg=cyan]#S\
-    #{online_status}\
-    #[default] #[bg=green,fg=black] %A, %B %d %H:%M "
+set -g status-right "#[bold]#{pane_current_path}\
+  #[default,fg=cyan]#S\
+  #{online_status}\
+  #[fg=colour31]%A, %B %d %H:%M "
 set -g status-right-length 200
 
 if-shell "uname -o | grep -q Android"\
- "set -g status-right '#[default,fg=cyan]#S #[bg=green,fg=black] %A, %B %d %H:%M '"
+ "set -g status-right '#[default,fg=cyan]#S #[fg=colour31] %A, %B %d %H:%M '"
 #+END_SRC
 
 ** Windows
@@ -96,9 +96,8 @@ if-shell "uname -o | grep -q Android"\
 The windows list.
 
 #+BEGIN_SRC bash
-set -g window-status-current-format "#[bg=green,fg=black] #I #W "
+set -g window-status-current-format "#[bold]#[bg=colour31,fg=colour234] #I #W "
 set -g window-status-format " #I #W "
-
 setw -g window-status-fg white
 #+END_SRC
 
@@ -115,6 +114,14 @@ of keybindings. I use the default keybindings of Emacs for this:
 
 #+BEGIN_SRC bash
 setw -g mode-keys emacs
+#+END_SRC
+
+** Mouse mode
+
+Activate mouse mode.
+
+#+BEGIN_SRC bash
+set -g mouse on
 #+END_SRC
 
 ** Reload Configuration
