@@ -67,7 +67,7 @@ Also =Termite= supports true color but I don't really care about that.
 #+BEGIN_SRC bash
 [colors]
 background = #2b2b2b
-foreground = #dcdccc
+foreground = #a9a999
 foreground_bold = #ffffff
 
 highlight = #2f2f2f
