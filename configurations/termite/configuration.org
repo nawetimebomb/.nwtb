@@ -88,4 +88,5 @@ color12 = #9fbff3
 color13 = #ec93d3
 color14 = #93e0e3
 color15 = #ffffff
+color31 = #0087af
 #+END_SRC
