@@ -235,9 +235,7 @@ Standarize my keyboard options all across the board. This includes:
 - Disable the Caps Lock, move it to Ctrl key.
 
 #+BEGIN_SRC bash
-exec --no-startup-id setxkbmap us
-exec --no-startup-id setxkbmap -variant altgr-intl
-exec --no-startup-id setxkbmap -option ctrl:nocaps
+exec --no-startup-id setxkbmap us -variant altgr-intl -option ctrl:nocaps
 #+END_SRC
 
 ** Set Terminal Mode

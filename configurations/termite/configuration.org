@@ -64,9 +64,11 @@ Match Zenburn, even with my Terminal.
 *Note:* I just set a base16 color but you are able to set 255 colors.
 Also =Termite= supports true color but I don't really care about that.
 
+*Default BG: #2b2b2b*
+
 #+BEGIN_SRC bash
 [colors]
-background = #2b2b2b
+background = #322b32
 foreground = #a9a999
 foreground_bold = #ffffff
 

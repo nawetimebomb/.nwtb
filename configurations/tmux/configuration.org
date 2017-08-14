@@ -217,8 +217,8 @@ These are the plugins configurations.
 
 #+BEGIN_SRC bash
 set -g @continuum-restore 'on'
-set -g @online_icon '#[fg=brightgreen]online'
-set -g @offline_icon '#[fg=brightred]offline'
+set -g @online_icon '#[fg=green]online'
+set -g @offline_icon '#[fg=red]offline'
 #+END_SRC
 
 ** Run Tmux Plugin Manager

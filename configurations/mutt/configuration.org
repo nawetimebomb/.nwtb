@@ -405,21 +405,22 @@ bind index \Cx\Cc quit
 As all my other things, it follows Zenburn theme.
 
 #+BEGIN_SRC bash
+color normal default default
 color indicator black white
 
 color index red brightblack ~D
 color index green brightblack ~N
 color index yellow brightblack ~O
 
-color status black green
+color status black color31
 
-color markers red black
+color markers red default
 
-color header yellow black ^Date:
-color header yellow black ^From:
-color header yellow black ^To:
-color header yellow black ^Subject:
+color header yellow default ^Date:
+color header yellow default ^From:
+color header yellow default ^To:
+color header yellow default ^Subject:
 
-color body green black (https?|ftp)://[\-\.,/%~_:?&=\#a-zA-Z0-9]+
-color body green black [\-\.+_a-zA-Z0-9]+@[\-\.a-zA-Z0-9]+
+color body green default (https?|ftp)://[\-\.,/%~_:?&=\#a-zA-Z0-9]+
+color body green default [\-\.+_a-zA-Z0-9]+@[\-\.a-zA-Z0-9]+
 #+END_SRC
