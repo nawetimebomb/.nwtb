@@ -1,0 +1,67 @@
+2017-08-14 12:06:33	G-RamiroFernandoGomezOrt	Buenos dias Nahuel
+2017-08-14 12:06:35	G-RamiroFernandoGomezOrt	como estas?
+2017-08-14 12:07:15	nawe	Buenas
+2017-08-14 12:07:15	--	[G-RamiroFernandoGomezOrt] is away: Away
+2017-08-14 12:09:13	G-RamiroFernandoGomezOrt	Te tenia dos preguntas sencilla
+2017-08-14 12:09:27	G-RamiroFernandoGomezOrt	pregunta o aclaracion jejeje
+2017-08-14 12:10:16	G-RamiroFernandoGomezOrt	en air-manage-reservation-emergency-contact-page.js line 79 
+2017-08-14 12:10:27	nawe	yep
+2017-08-14 12:10:35	G-RamiroFernandoGomezOrt	Quede perdido con lo de i18n
+2017-08-14 12:10:37	G-RamiroFernandoGomezOrt	:-(
+2017-08-14 12:11:30	nawe	con i18n podés pasar objetos de configuración
+2017-08-14 12:11:37	nawe	habría que buscar si tenemos eso ya
+2017-08-14 12:12:06	G-RamiroFernandoGomezOrt	es decirle a i18n que concatene automatocamente esos labels?
+2017-08-14 12:12:28	G-RamiroFernandoGomezOrt	por ejemplo LAbel {$1}   also como eso?
+2017-08-14 12:13:24	nawe	podés buscar ejemplos
+2017-08-14 12:13:36	nawe	como BUTTON__SKIP_PASSENGER_ARIA
+2017-08-14 12:13:37	G-RamiroFernandoGomezOrt	voy a buscarlos
+2017-08-14 12:14:34	nawe	https://messageformat.github.io/guide/
+2017-08-14 12:17:51	nawe	¿tenías otra pregunta?
+2017-08-14 12:19:47	G-RamiroFernandoGomezOrt	sip que pena
+2017-08-14 12:20:18	G-RamiroFernandoGomezOrt	en la linea 83, no pase el section ya que cuando le puse el attribute key no lo acetpo el Section  :-(
+2017-08-14 12:20:25	G-RamiroFernandoGomezOrt	por ende deje el div  ☺
+2017-08-14 12:24:43	nawe	No debería tener problemas.
+2017-08-14 12:24:48	nawe	¿por qué no lo aceptaría?
+2017-08-14 12:25:06	G-RamiroFernandoGomezOrt	pues no lo pude ver en las props de react... sale como null
+2017-08-14 12:25:16	G-RamiroFernandoGomezOrt	cuando se lo agregue al Section
+2017-08-14 12:28:05	G-RamiroFernandoGomezOrt	Miento... ya me salio.... disculpa .
+2017-08-14 12:28:06	G-RamiroFernandoGomezOrt	mira
+2017-08-14 12:29:24	G-RamiroFernandoGomezOrt	https://plus.google.com/photos/albums/p4l6kil5bk9t0pv242hr7v5hohlmetbd9?pid=6454152857906232338&oid=109716569357879423631
+2017-08-14 12:29:33	G-RamiroFernandoGomezOrt	Me sale como attr, pero no dentro d elos props
+2017-08-14 12:29:54	nawe	Sí, el key no funciona como las props comunes
+2017-08-14 12:29:58	nawe	Es referencia de React
+2017-08-14 12:30:02	nawe	de hecho tampoco va en el unit testing
+2017-08-14 12:30:18	G-RamiroFernandoGomezOrt	genial.... thanks
+2017-08-14 12:30:24	G-RamiroFernandoGomezOrt	ya deje esos dos puntos ajustados...
+2017-08-14 12:30:56	G-RamiroFernandoGomezOrt	el de i18n quedo algo asi: 
+2017-08-14 12:30:56	G-RamiroFernandoGomezOrt	var passengerPositionLabel = i18n('LABEL__PASSENGER_NUMBER', { passengerNumber: passengerNumber });
+2017-08-14 12:31:55	G-RamiroFernandoGomezOrt	si el section ya tiene 3 props definidas, seria mejor sacarlo en un getSectionProps()
+2017-08-14 12:32:48	G-RamiroFernandoGomezOrt	https://plus.google.com/photos/albums/p4l6kil5bk9t0pv242hr7v5hohlmetbd9?pid=6454153732045510578&oid=109716569357879423631
+2017-08-14 12:32:48	nawe	Exactamente (Y)
+2017-08-14 12:32:52	nawe	Justo como lo decís
+2017-08-14 12:33:09	G-RamiroFernandoGomezOrt	vale voy a hacer eso mismo...
+2017-08-14 12:33:49	nawe	Pregunta
+2017-08-14 12:33:56	nawe	¿por qué pasas el passengerNumberLabel
+2017-08-14 12:33:57	G-RamiroFernandoGomezOrt	dime
+2017-08-14 12:34:01	nawe	al método?
+2017-08-14 12:34:22	nawe	Podés crear esa variable en el método que lo renderiza si no lo necesitas ahí mismo\
+2017-08-14 12:34:34	G-RamiroFernandoGomezOrt	sip, me acabas de hacer caer en cuenta
+2017-08-14 12:35:44	nawe	crea las variables donde realmente las necesites
+2017-08-14 12:38:08	G-RamiroFernandoGomezOrt	Muy bien.... gracias... depronto se abruma uno por todo esto y se le pasan esas consideraciones...
+2017-08-14 12:47:37	nawe	Sí jajaja, de a poco te vas acostumbrado
+2017-08-14 12:47:40	nawe	no hay problemas
+2017-08-14 12:47:49	nawe	todos empezamos alguna vez
+2017-08-14 12:48:55	G-RamiroFernandoGomezOrt	Super... thanks por tu ayuda.
+2017-08-14 12:52:38	nawe	No hay problemas
+2017-08-14 12:52:44	nawe	cualquier cosa que necesites no dudes en preguntar
+2017-08-14 12:55:42	G-RamiroFernandoGomezOrt	Perfect!! Lo hare...
+2017-08-14 13:23:16	G-RamiroFernandoGomezOrt	Hola Nahuel ya realice los ajustes al Code e hice un push.
+2017-08-14 13:56:28	nawe	dale, ahora lo voy a ver.
+2017-08-14 13:56:45	G-RamiroFernandoGomezOrt	Thanks
+2017-08-14 13:58:43	nawe	Tengo una meeting
+2017-08-14 13:58:51	nawe	En una hora la reviso
+2017-08-14 13:59:45	G-RamiroFernandoGomezOrt	B-) Gracias
+2017-08-14 15:02:19	nawe	Ok
+2017-08-14 15:02:22	nawe	hay sólo dos cosas
+2017-08-14 15:02:32	nawe	una es el air-flight-information.js
+2017-08-14 15:02:44	nawe	la otra es un comentario de Andrés pero es mínimo.
